@@ -1,0 +1,9 @@
+Title: polk county biking
+Date: 2010/07/21
+Slug: polk-county-biking
+Tags: biking
+Link: 
+Description: 
+
+
+Here's a quiz for you... What do deer, old cars, a saw mill, and black bears all have in common?  These are all things I regularly see on my rides around polk county.  The countryside by our cabin is some of the best riding around, every road is paved and very lightly travelled.  I can ride around any number of lakes and have all kinds of flexibility to make a route that is anywhere from 12 to 50 miles long.  Bone Lake, Half Moon, Pipe, Balsam, Little Blake, Butternut, these are a few of the lakes that I loop in and through on a regular basis.<br /><br />So, the other night I took my camera for a ride and focused more on the picture taking that the riding.  Here's my favorite shot from the night and you can find the rest of them <a href="http://www.facebook.com/album.php?aid=2064788&id=59203846&l=2defc9fdd3">here:</a><img src="http://lh3.ggpht.com/_wISL1SSAaEA/TEcaYq9NsuI/AAAAAAAAAH4/fbqhEL_1Zj0/IMG_1264.jpg?imgmax=800" alt="IMG_1264.jpg" title="IMG_1264.jpg" border="0" width="518" height="345" /><br /><br />Incidentally, this picture illustrates where the bear comes in to the picture.  This little pond is at the bottom of a little hill and around a nice little corner.  One morning a came coasting down the hill and around the corner to see a black bear, he would have been right in the bottom right corner of the picture.  I don't know which of us was more surprised!  The bear took off one way and I took off as fast as I could up the hill and past the pond.  We've never seen each other again.<br /><br /><div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/2759017781463016019-1629252102942453605?l=blog.bonelakesoftware.com' alt='' /></div>
