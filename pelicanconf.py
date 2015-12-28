@@ -4,10 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Brad Miller'
 SITENAME = 'A Reputable Journal'
-SITEURL = 'http://reputablejournal.com'
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
-PLUGINS = ['pelican_youtube', 'gallery', 'thumbnailer', 'ipynb', 'tag_cloud',
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['pelican_youtube', 'gallery', 'thumbnailer', 'tag_cloud', 'sitemap', 'liquid_tags.notebook'
 ]
 STATIC_PATHS=['images','static']
 TIMEZONE = 'America/Chicago'
@@ -23,6 +24,11 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_SIDEBAR = True
+DISPLAY_TAGS_INLINE = True
+BOOTSTRAP_THEME = 'flatly'
+
 # Blogroll
 LINKS = (('Runestone Interactive', 'http://runestoneinteractive.org'),
          ('Python Books', 'http://interactivepython.org/'),
@@ -30,6 +36,7 @@ LINKS = (('Runestone Interactive', 'http://runestoneinteractive.org'),
 
 
 THEME='themes/Responsive-Pelican'
+THEME='themes/pelican-bootstrap3'
 #THEME='themes/notmyidea-cms'
 
 
@@ -41,6 +48,20 @@ SOCIAL = (('Twitter', 'http://twitter.com/bnmnetp'),
           ('Github', 'http://github.com/bnmnetp'),)
 
 DEFAULT_PAGINATION = 10
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -58,3 +79,5 @@ THUMBNAIL_KEEP_NAME = True
 THUMBNAIL_KEEP_TREE = True
 
 
+YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
+MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/index.html'

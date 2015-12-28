@@ -10,12 +10,18 @@ Lake Como by Lake
 
 The conversation started like this:
 
-> Incoming:  Robert, I am not available now, and I have a funeral to go to at 4, but I can meet at 5:15
-> Me:  Sorry, wrong number no robert
-> Incoming: Oh, Thanks
-> Incoming: Did you want a boat?
-> Me: Yes, I had called about a boat, but I talked to Moreno
-> Incoming: OK, you better give me the time and details because he will forget.
+    Incoming:  Robert, I am not available now, and I have a funeral to go to at 4, but I can meet at 5:15
+    
+    Me:  Sorry, wrong number no robert
+    
+    Incoming: Oh, Thanks
+    
+    Incoming: Did you want a boat?
+    
+    Me: Yes, I had called about a boat, but I talked to Moreno
+    
+    Incoming: OK, you better give me the time and details because he will forget.
+    
 
 This is was that our reservation to rent a boat to take around the lake on our own was confirmed with Julia.
 
