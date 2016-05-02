@@ -8,14 +8,18 @@ SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['pelican_youtube', 'gallery', 'thumbnailer', 'tag_cloud', 'sitemap', 'liquid_tags.notebook'
+PLUGINS = ['pelican_youtube', 'gallery', 'thumbnailer', 'tag_cloud', 'sitemap', 
+'liquid_tags.notebook', 'render_math', 'share_post'
 ]
+
 STATIC_PATHS=['images','static']
 TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
 
 MARKUP = ('rst', 'md', 'ipynb')
+
+ADDTHIS_PROFILE='ra-553bcb107aed7add'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -29,6 +33,7 @@ DISPLAY_CATEGORIES_ON_SIDEBAR = True
 DISPLAY_TAGS_INLINE = True
 BOOTSTRAP_THEME = 'flatly'
 
+MATH_JAX = {'process_escapes':True}
 # Blogroll
 LINKS = (('Runestone Interactive', 'http://runestoneinteractive.org'),
          ('Python Books', 'http://interactivepython.org/'),
