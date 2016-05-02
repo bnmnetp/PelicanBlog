@@ -1,9 +1,9 @@
 .. title: About
 .. slug: about
 .. date: 2014/04/20 15:44:45
-.. tags: 
-.. link: 
-.. description: 
+.. tags:
+.. link:
+.. description:
 .. type: text
 
 About Me
@@ -23,6 +23,7 @@ Social Media
 * Follow me on twitter, I am `@bnmnetp <https://twitter.com/bnmnetp>`_
 * Connect with me on `LinkedIn <http://www.linkedin.com/in/bnmnetp>`_
 * My projects on `Github <https://github.com/bnmnetp>`_
+* Want to meet in-person? `Here's my calendar <https://calendar.google.com/calendar/embed?src=millbr02%40luther.edu&ctz=America/Chicago&mode=WEEK>`_
 
 Bio
 ---
