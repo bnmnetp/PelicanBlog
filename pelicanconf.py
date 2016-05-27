@@ -86,3 +86,7 @@ THUMBNAIL_KEEP_TREE = True
 
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/index.html'
+
+BANNER='/images/banner.jpg'
+BANNER_SUBTITLE='Travel, Cooking, Teaching, Hacking...'
+DISPLAY_ARTICLE_INFO_ON_INDEX=True

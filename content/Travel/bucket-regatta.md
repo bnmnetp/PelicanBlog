@@ -20,12 +20,8 @@ In addition to the excitement of chasing the boats, and it is really interesting
 
 In total we made a complete circle of the island, and when we made our turn to go with the wind, and "surf the waves" for a smooth ride home we were also rewarded with the site of one of the big ships letting out its spinnaker!  Up it went, and then Boom!  the sail filled with the wind that would propel it toward the finish line.  You just can't believe how big those sails are until you are right there when they go up.
 
-![]1;95;0c(/images/IMG_0015.JPG)
+![](/images/IMG_0015.JPG)
 
 Soon after that we were back at the pier and unloading our gear.  Sunburned and very tired from a day in the sun and water.  We had to hike the long way back around the bay to get to our pickup with the ships tender, and we realized then how intense the sun was.  We just missed the tender as we came within site, but 15 minutes later they were back and without waiting an extra minute we were on our way back to the SeaDream I.   
 
 Somehow we managed to stay awake until dinner time at 7:30, and we chose to eat outside.  Jane had Lobster and I had a really delicious Veal Saltimbocca.  We were joined by our new friends from Florida and had a very nice dinner.  We are definitely enjoying our time here on the SeaDream.
-
-
-
-

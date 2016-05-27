@@ -4,7 +4,6 @@ Date:  2016-05-02
 Tags:  Teaching, Luther
 Description: A new major at Luther brings lots of questions
 
-# What is Data Science?
 
 Since Luther announced that it will offer a new major in Data Science starting next fall, I’ve been answering a lot of questions.  What is data science?  What does one do with a data science major?   What does a data scientist do?  Why study data science at Luther?  These are great questions, and are all questions we thought about as we put together the major.  In this post, I’ll try to answer and provide some context for these questions.
 
