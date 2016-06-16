@@ -37,10 +37,10 @@ MATH_JAX = {'process_escapes':True}
 # Blogroll
 LINKS = (('Runestone Interactive', 'http://runestoneinteractive.org'),
          ('Python Books', 'http://interactivepython.org/'),
+         ('Everyday Python', 'http://everydaypython.org/'),
          ('Luther College', 'http://www.cs.luther.edu'),)
 
 
-THEME='themes/Responsive-Pelican'
 THEME='themes/pelican-bootstrap3'
 #THEME='themes/notmyidea-cms'
 
