@@ -6,11 +6,11 @@ Description: On the road in a Winnebago
 
 Mobile blogging!  Her is my view as I write this post.
 
-![looking ahead](/images/takingoff.png)
+![looking ahead](/images/frontview.jpg)
 
 Where to start?  We awoke this morning and split our preparatory duties.  The women went to Costco, the men took Tucker back home and picked up the rest of the knutson's belongings.  By 1:00 we had two SUVs FULL Of stuff to put in our 32 foot Winnebago, henceforth known as Willard.
 
-![full car](/images/fullcar.png)
+![full car](/images/fullcar.jpg)
 
 We arrived at Rent and Travel just before 2:00, our appointed time to take possession of Willard.  After about 30 minutes (only) of introduction and education (which we recorded for later reference) we began the 90 minute process of moving in.  Food, lawn games, photography equipment, adult beverages, hiking gear, clothing, bedding, adult beverages, grilling equipment.  All the comforts of home for the next 15 days and 2,800 miles.  It was hot sweaty work, but we are all packed up and on the road.  Jane, of course, is taking the first shift of driving this giant beast.  Brian is riding shotgun and Holly and I are trying out RV travel in the back.  I'm sitting at the kitchen table writing as we go.  I just saw the sign that says Morehead 198 that is our destination for the evening.
 
