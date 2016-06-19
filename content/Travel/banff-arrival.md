@@ -5,7 +5,7 @@ Tags: Travel, Canada, RV
 Status: published
 Description:  On day four the scenery changes dramatically for the better
 
-![River Hike](/images/river_hike1.jpg)
+![River Hike](/images/Canada/river_hike1.jpg)
 
 It was difficult to get out of bed this morning.  The rain was making rainy sounds on the roof and there was a chill in the air.  Windows were cracked open an it was only in the 40's outside.  Someone had to get up and start the coffee.  Also, it seemed like a great time to try the heater.  I'm not sure it had been used before as it had that new furnace smell to it as it warmed up our little home.  This got everyone out of bed and eating breakfast.  It is Father's day today.  I've had electronic wishes  from both Kaia and Josh.   
 
