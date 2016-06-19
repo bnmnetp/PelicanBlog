@@ -8,7 +8,7 @@ Description: when you travel by RV you have to stop.
 
 This morning we left the Pratt's at 8:00, right on schedule.  I took my first shift in the cockpit.  This thing drives pretty nicely except when the wind gets gusty.  Then you feel like you are constantly overcorrecting one way or the other.  As we buzzed along I94 through North Dakota, we realized that we were not really in the spirit of things.  No large balls of twine, no giant ears of corn!  Of course, there's an app for that!  "Road Trippers" to the rescue!  In no time at all we learned that Jamestown had the worlds largest buffalo monument.  After a quick stop at Cenex to top off our tank (38 gallons for about half a tank),  we ended up on a really bad gravel road that brought us into the frontier village from the wrong direction.   Oh well, we got there.
 
-![Pratts](/images/fargo_stop)
+![Pratts](/images/fargo_stop.jpg)
 
 Now we are headed towards Bizmark for lunch and maybe a glimpse of the worlds largest Holstein!  Wait, how much giant bovine statuary can we see in one day?!  We shall see... the Holstein is reportedly some 40 feet tall and 50 feet long.
 
@@ -18,10 +18,10 @@ There is not much scenery yet, just a lot of wide open spaces and oil wells.  At
 
 We crossed into the mountain time zone just before we got to Weyburn, Saskatchewan for the night, which meant that we were right on schedule for happy hour.  I like this RV style of camping, it took us less than 10 minutes to level up, connect the electricity and the water.  We rolled out the canopy and set up our soccer chairs poured drinks, and by 5:15 we were relaxing and enjoying our campsite.
 
-![Camping](first_camp.jpg)
+![Camping](/images/first_camp.jpg)
 
 For dinner we took the bikes into town, and ended up at Boston Pizza.  Jane and Holly both ordered a Bloody Caesar (like a Bloody Mary but Canadian). The waitress offered "fishbowl size" little did we know that they would actually be served in a fish bowl!
 
-![Bloody Caesars](boston_pizza.jpg)
+![Bloody Caesars](/images/boston_pizza.jpg)
 
 We are on the road this morning having successfully navigated the dumping station!  More on that later.
