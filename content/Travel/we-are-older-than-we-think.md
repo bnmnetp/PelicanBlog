@@ -5,7 +5,7 @@ Tags:
 Status: published
 Description:
 
-![Lake Louise](/images/lake_louise.jpeg)
+![Lake Louise](/images/Canada/lake_louise.jpeg)
 
 Sitting in our campsite in Banff, my feet are up, I have a Gin & Tonic next to me, the campfire is started, the sun is still high in the sky, it's 18:00.  My iPhone tells me that I have taken 35,196 steps and gone 14.6 miles today!  I believe the G&T is well earned. We are thinking of ordering pizza from Temple Pizza at the Fairmont hotel on Lake Louise because NOBODY WANTS TO GET OUT OF THEIR CHAIR!!
 
