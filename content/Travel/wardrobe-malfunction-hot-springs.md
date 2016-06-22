@@ -5,7 +5,7 @@ Tags:  Travel, Canada
 Status: published
 Description: Quite a day of adventures in and around Banff
 
-![Moraine Lake](/images/Canada/anniversary_pic.jpeg)
+![Moraine Lake](/images/Canada/anniversay_pic.jpeg)
 
 Happy Anniversary!  Jane and I have been married 30 years today.  People will say that is quite an accomplishment these days, I just can't believe that 30 years have gone by so quickly.  We have two amazing children that have grown into wonderful young adults.  Yes, one of them is older than we were when we got married.  We have had 30 years of incredible adventures, we have seen a pretty good fraction of the world, and are looking forward to seeing lots more of it.  I've had a pretty great career doing what I love.  I couldn't have done any of it without Jane.  Thanks honey!
 
