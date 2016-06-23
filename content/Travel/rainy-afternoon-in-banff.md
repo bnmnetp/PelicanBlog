@@ -27,11 +27,14 @@ Sunwapta Falls was another really short hike off the highway, with spectacular f
 
 ![Emerald Lake](/images/Canada/emerald_lake.jpeg)
 
-We hiked around Emerald lake, I think you can guess how it got its name.
+We hiked around Emerald lake, I think you can guess how it got its name.  Emerald Lake is in Yoho national park in British Columbia.  If I had written this post yesterday I would have titled it "Yoho, Yoho a Pirates Life for Me!"
 
 ![Natural Bridge](/images/Canada/natural_bridge.jpeg)
 
 Another beautiful waterfall, next to a spot you could easily drive by and dismiss.  But well worth the stop.
 
+![Natural Bridge](/images/Canada/natural_bridge2.jpeg)
+
+Here's another which gives you a better view of its bridge like qualities.
 
 
