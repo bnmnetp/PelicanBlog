@@ -22,5 +22,6 @@ DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
+DISQUS_SITENAME = "reputablejournal"
 GOOGLE_ANALYTICS = "UA-32638348-1"
+CC_LICENSE = "CC-BY-SA"
