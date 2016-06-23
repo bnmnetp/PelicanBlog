@@ -13,7 +13,7 @@ So, as we are taking this downtime to shower and cleanup a bit in preparation fo
 
 The photo at the top is from Bow Lake, right off the highway.  But everything was so still it was crazy beautiful.
 
-![Close up Reflection](/images/Canada/close_up_reflection.jpeg)
+![Close up Reflection](/images/Canada/reflection_close_up.jpeg)
 
 This one may trip you up a bit.  It is a closeup of the mountain reflection, but the stones in the foreground are not a reflection.  It looks kind of weird without the perspective of the real landscape!
 
