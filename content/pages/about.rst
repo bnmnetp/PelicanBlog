@@ -34,6 +34,17 @@ After an Article in the New Yorker magazine by Malcolm Gladwell, Net Perceptions
 
 At Luther, Miller is engaged in a new line of research, exploring technologies and tools for interactive textbooks. This work is under the umbrella of Runestone Interactive. Two textbooks, developed with the Runestone Tools, are used at Luther and over 300 institutions around the world. The book is open source and available to anyone who wants to learn computer science. We have readers from over 170 different countries around the world. The textbooks are available on our `website <http://interactivepython.org>`_ .  In addition to teaching and researching introductory computer science Miller also teaches Networking, Computer Graphics, Machine Learning,  and Internet Programming.
 
+Interviews and other cool Stuff
+-------------------------------
+
+.. raw:: html
+
+    <div class="talk-python-embedded-player"
+      data-episode-id="20"
+      data-show-title="Interactive Python and Teaching Python: Beyond Text Books"
+      data-guest="Brad Miller"></div>
+    <script src="https://talkpython.fm/static/js/embed/player.js" type="text/javascript"></script>
+
 
 Projects
 --------
