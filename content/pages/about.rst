@@ -39,11 +39,7 @@ Interviews and other cool Stuff
 
 .. raw:: html
 
-    <div class="talk-python-embedded-player"
-      data-episode-id="20"
-      data-show-title="Interactive Python and Teaching Python: Beyond Text Books"
-      data-guest="Brad Miller"></div>
-    <script src="https://talkpython.fm/static/js/embed/player.js" type="text/javascript"></script>
+   <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/218766504&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 
 Projects
