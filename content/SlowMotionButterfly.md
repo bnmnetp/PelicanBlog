@@ -9,4 +9,6 @@ Sitting on the deck yesterday, we noticed this butterfly hard at work.  Polinati
 
 Today, as a break from coding, I trimmed it up a bit, and added a little bit of Eva Cassidy (Oh, Had I a Golden Thread) which seemed to fit.
 
+I wish I had shot it in landscape instead of portrait but I just grabbed my phone and started to film.  Its amazing how the shape of the wings change and how it uses both front and back wings on each side.  It looks so frantic at full speed, but it looks really graceful in super-slow-mo.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-0vNO0XWos" frameborder="0" allowfullscreen></iframe>
