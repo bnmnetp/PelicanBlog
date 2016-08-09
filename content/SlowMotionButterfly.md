@@ -1,7 +1,8 @@
 Title: Super Slow Motion Butterfly
-Date: 2013/08/03
+Date: 2016-08-09
 Slug: super-slo-mo-butterfly
 Tags: Video
+Status: published
 Description: A little fun with my iPhone and super slow motion.
 
 Sitting on the deck yesterday, we noticed this butterfly hard at work.  Polinating the flowers like crazy.  So I grabbed my phone and set it to super slow motion and shot a few seconds of this hard worker.
