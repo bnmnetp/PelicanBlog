@@ -7,7 +7,7 @@ Description: A look back at a very productive Summer
 
 With just about 10 days until classes start, my focus must switch to prep, teaching, and the inevitable committee and faculty meetings.  But I wanted to take some time to document a few highlights of the summer.  One of the biggest highlights is a redesigned instructor interface for Runestone, that is so big that I'm going to save that one for Part II.  In the meantime it is in beta and I encourage you to take a look.
 
-If you are new to the Runestone Interactive project you might want to watch this podcast I did with my colleague Philip Guo at the University of San Diego.  [PG Podcast - Episode 11](http://pgbovine.net/PG-Podcast-11-Brad-Miller.htm)
+If you are new to the Runestone Interactive project you might want to watch this podcast I did with my colleague Philip Guo at UC San Diego.  [PG Podcast - Episode 11](http://pgbovine.net/PG-Podcast-11-Brad-Miller.htm)
 
 ## New Books in Runestone by people I didn't know
 
