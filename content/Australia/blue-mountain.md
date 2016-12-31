@@ -21,7 +21,7 @@ Once you are in the rainforest they have three options:  a 10, 20 or 30 minute w
 
 After a very nice lunch of fish and chips we made our way to  Featherdale to have our picture taken with a Koala and to feed the Kangaroos.  Before we arrived I was calling it the 'petting zoo', but in the end it turned out alright. Coming face to face with a real Kangaroo is definitely cool.
 
-![../images/Australia/koala.jpg]
+![Koala](../images/Australia/koala.jpg)
 
 In addition Featherdale had lots of really interesting native animals including a Tasmanian Devil -- it doesn't look anything at all like the one from the bugs bunny cartoons.  But its jaw muscles are among the strongest in the animal kingdom.  We also saw a Cassowary - think a turkey crossed with a Velociraptor.  In fact they say it is a holdover from the dinosaurs.  They have a hard crown (called a casque) on top of their head which is probably used as a sound box or radar for picking up the low frequency calls these creatures make.   The Cassowary an endangered species but almost nobody has heard about them because they are not nearly as cute as the Koalas.  They can jump six feet in the air and sprint 30 mph! I would not want to be chased by one.
 
