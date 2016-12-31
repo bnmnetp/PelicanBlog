@@ -23,7 +23,7 @@ After a very nice lunch of fish and chips we made our way to  Featherdale to hav
 
 ![../images/Australia/koala.jpg]
 
-In addition Featherdale had lots of really interesting native animals including a Tasmanian Devil -- it doesn't look anything at all like the one from the bugs bunny cartoons.  But its jaw muscles are among the strongest in the animal kingdom.  We also saw a Cassowary - think a turkey crossed with a Velociraptor.  In fact they say it is a holdover from the dinosaurs.  They have a very hard crown (called a casque) on top of their head which they use along with their claws to attack.  They can jump six feet in the air and sprint 30 mph! I would not want to be chased by one.
+In addition Featherdale had lots of really interesting native animals including a Tasmanian Devil -- it doesn't look anything at all like the one from the bugs bunny cartoons.  But its jaw muscles are among the strongest in the animal kingdom.  We also saw a Cassowary - think a turkey crossed with a Velociraptor.  In fact they say it is a holdover from the dinosaurs.  They have a hard crown (called a casque) on top of their head which is probably used as a sound box or radar for picking up the low frequency calls these creatures make.   The Cassowary an endangered species but almost nobody has heard about them because they are not nearly as cute as the Koalas.  They can jump six feet in the air and sprint 30 mph! I would not want to be chased by one.
 
 To round out the day we had a quick tour through Sydney's Olympic park.  Still a very vibrant area to this day.  And then a water taxi ride back to the Circle Quay in the heart of Sydney.
 
