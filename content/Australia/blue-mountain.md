@@ -5,7 +5,7 @@ Tags: Travel, Australia
 Status: published
 Description: A great day touring the Blue Mountains
 
-![Lincoln's Point](../images/Australia/lincolns_point.jpg)
+![Lincoln's Eoxk](../images/Australia/lincolns_rock.jpg)
 
 One great way to get over jet lag is to just get up in the morning and get going again.  Although we only made it until 8:30 last night we did manage to sleep until about 4 AM.  Our Blue Mountain tour started at 6:30 AM so we were wide awake and ready to go with no trouble.  We had a great guide for a day long tour out into the Blue Mountains outside of Sydney.  After a 90 minute drive from Sydney we stopped for Tea and Scones before our visit to Echo point to see the three sisters Meehni, Wimlah and Gunnedoo.  Legend has it that their father turned them to stone rather than let them marry three brothers from a rival tribe.
 
@@ -15,7 +15,7 @@ Aboriginal legends in Australia are just as believable as the native american le
 
 There are a lot of great hiking trails in the area, including one which will bring you right over to the three sisters.  We were on an easier tour instead of a several mile hike we got in line at Scenic World and rode the gondola across.  This gave us a great, if fleeting, view of some waterfalls.  From there we took another gondola on a steep descent into the rain forest.
 
-![](../images/Austrailia/scenic_world.jpg)
+![](../images/Australia/scenic_world.jpg)
 
 Once you are in the rainforest they have three options:  a 10, 20 or 30 minute walk through the forest on a nice safe boardwalk.  At the end you can ride up the train (the steepest in the world) to the top.  All in all it was very scenic and a nice walk but I think we would have preferred to skip the lines for the 'rides' and just walk the trails on our own.
 
@@ -27,7 +27,12 @@ In addition Featherdale had lots of really interesting native animals including 
 
 To round out the day we had a quick tour through Sydney's Olympic park.  Still a very vibrant area to this day.  And then a water taxi ride back to the Circle Quay in the heart of Sydney.
 
+#### Note 1
+
 The picture of me at the top of this post was taken on another little side trip to a place called Lincoln's Rock.  It just demonstrates the importance of perspective when you are framing a photo.  I can assure you that I was never in danger of anything more than a broken leg had I managed to somehow slip off that ledge.
 
+#### Note 2
+
+The title of this post is also an explanation for how/why the Blue Mountains got their name.  You can see there is kind of a blue haze in the background.  This is because the mountains are full of eucalyptus trees and there is enough eucalyptus oil that evaporates into the air that refraction causes the air to look a little bit bluer.  Australians also like to talk about how fresh and clear the air is in the blue mountains, in fact one enterprising Australian apparently even put blue mountain air into cans and sold it in China!
 
 
