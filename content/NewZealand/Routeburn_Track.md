@@ -37,7 +37,7 @@ At 10:00 the generators are shut off until 7:30 the next morning.  But that real
 
 ## Day Two
 
-![Mackenzie Lake](../images/NZ/mackenzie_lake.jpg)
+![Mackenzie Lake](../images/NZ/lake_mackenzie.jpg)
 
 Day two began with sandwich making at 7:45.  Amazingly we slept solid until 7:00 when I needed to get up and use the ensuite.   A few experimental steps revealed that all the limbs were still working as they should with amazingly little stiffness.  Continental breakfast was at 8:15 followed by eggs Benedict at 8:30.  At 9:15 we met for a group photo by Lake Mackenzie and then we were off for a good six hours of walking.   The beginning was again steadily up hill, then we rounded the mountain onto the rainy and windy side! The distance for today was just 6.9 miles but it was slower going than yesterday! There is no bad weather, only bad gear I repeated to myself.  Nevertheless we made it to the hut on Harris Saddle for our rest/lunch stop.  After lunch I did the optional climb up Conical Hill while Jane continued on towards the Routeburn Lodge with a few others.  After the Harris Saddle and the Conical Hill the rest of the day was down hill  which was nice but pretty hard on my calfs.  
 
