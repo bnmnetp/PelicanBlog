@@ -31,4 +31,6 @@ Jane was on one side of the helicopter and I was on the other.  She was on the s
 
 Our adventures were not over because the flight home included a short stop on a glacier!  Well, more of a big snowbank than a glacier, and really I didn't think there was any way we could land in the spot we landed.  It didn't look level and the pilot landed just feet from the edge.  Did I mention these Alpine pilots are really really good?  so we got out and tramped about in the snow for a few minutes, Jane in nothing but sandals!  Pictures were taken and we were all in awe of the beauty.  But very soon we piled back in the helicopter and took off for the last bit of our journey to Queenstown.  We were back by 5:10, a full three hours before the coach was supposed to be back, plus we had an amazing helicopter adventure!
 
+![Heli Glacier](../images/NZ/heli_glacier.jpg)
+
 
