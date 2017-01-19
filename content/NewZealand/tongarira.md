@@ -9,7 +9,7 @@ The goal for today had been to bike the Timber Trail.  But since the forecast wa
 
 Instead of hiking the Tongariro Alpine trail for seven hours we took the "easy way out" an hiked the 2 hour trail to Taranaki Falls.  When we started out it was mostly just cloudy and misty.  But just after the falls it got bad, really bad.  The rain was coming sideways and even my mantra about good gear was not enough to overcome the chilling discomfort seeping through my pants and filling my shoes.  The falls were nice but we have seen lots of falls like these in New Zealand.  
 
-<video autoplay>
+<video autoplay loop>
 <source src="../images/NZ/rainy_wf.mp4" type="video/mp4" />
 </video>
 
