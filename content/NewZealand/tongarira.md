@@ -5,12 +5,12 @@ Tags: Travel, NewZealand, LotR
 Status: published
 Description: A very rainy day on the North Island of New Zeland
 
-The goal for today had been to bike the Timber Trail.  But since the forecast was for lots of rain we arranged to postpone that until Friday.  My next hope was that we would be able to see Mount Doom <img src="../images/NZ/doom.jpg" style="float: right;">.   But we didn't get to see that version (thankfully!), I'll just have to watch the Lord of the Rings again to see that one.    We also didn't get to see this version <img src="../images/NZ/ngauruhoe.jpg" style="float: left;">.  It seems that the weather on the North island has been a bit unsettled.  Instead we saw this <img src="../images/NZ/foggy_doom.jpg" style="width: 240px; float: right">. Mount Doom (Mt. Ngauruhoe) might be back there somewhere behind all the clouds.
+The goal for today had been to bike the Timber Trail.  But since the forecast was for lots of rain we arranged to postpone that until Friday.  My next hope was that we would be able to see Mount Doom <img src="../images/NZ/doom.jpg" style="float: left;">.   But we didn't get to see that version (thankfully!), I'll just have to watch the Lord of the Rings again to see that one.    We also didn't get to see this version <img src="../images/NZ/ngauruhoe.jpg" style="float: left;">.  It seems that the weather on the North island has been a bit unsettled.  Instead we saw this <img src="../images/NZ/foggy_doom.jpg" style="width: 240px; float: left;">. Mount Doom (Mt. Ngauruhoe) might be back there somewhere behind all the clouds.
 
 Instead of hiking the Tongariro Alpine trail for seven hours we took the "easy way out" an hiked the 2 hour trail to Taranaki Falls.  When we started out it was mostly just cloudy and misty.  But just after the falls it got bad, really bad.  The rain was coming sideways and even my mantra about good gear was not enough to overcome the chilling discomfort seeping through my pants and filling my shoes.  The falls were nice but we have seen lots of falls like these in New Zealand.  
 
 <video autoplay>
-<source src="../images/NZ/foggy_wf.mp4" type="video/mp4" />
+<source src="../images/NZ/rainy_wf.mp4" type="video/mp4" />
 </video>
 
 More than anything this walk was to get us out of the hotel and doing something for a portion of our day.   We can't just hang out in our room all day.  Although we have a really nice 2-bedroom apartment that we could enjoy.  We had hoped that the forecast was wrong that that once we got to the visitor center there would be plenty of trails to hike and enjoy.
