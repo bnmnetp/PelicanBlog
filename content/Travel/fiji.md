@@ -14,7 +14,7 @@ You have a few options for getting to the resort from Nadi:  A ferry that makes 
 
 By mid-afternoon, high tide, the water is practically bath tub temperature.  The variety of fish we have seen just  outside our Bure is astounding!  We saw: Unicornfish, Clownfish, Angelfish, Parrotfish, Tang, Moorish Idol, Butterflyfish, Blue Sea Star, a Blue-spotted  Ribbontail Ray, an Eagle Ray,  a big old Moray Eel and many more.  Many of these are also visible just standing on the deck and looking in the water!  But cooling off with a bit of snorkeling is even better.  At low tide you are not supposed to snorkel in front of your Bure as the water is shallow and the reef is protected.  But you can still see some pretty amazing sights from the deck and the walkway.  Check out the video of this huge school of sardines.   Watch as the bigger fish (a Trevaly) swims though and leaves empty space behind.  The Sardines are also a favorite snack for the Gar.  Every so often as you are sitting out on the deck a school like this will go crazy and start jumping out of the water for a few seconds.
 
-<video auto loop>
+<video auto-lay loop>
 <source src="../images/school_of_fish.mov" type="video/mov">
 This video type is not supported by your browser
 </video>
