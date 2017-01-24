@@ -6,7 +6,7 @@ Status: published
 Description: Three nights in an over-water Bure conclude our wonderful vacation.
 
 
-![Bure View](../images/Fiji/view.jpg)
+![Bure View](../images/bure_view.jpg)
 
 With a view like that you would think I could write something really inspirational for this final post of our journey.  Four weeks of travel with some absolutely crazy sights and adventures have wrapped themselves up here at the Likuliku Lagoon Resort in Fiji.  To put it mildly the resort is amazing.  A maximum of 96 guests, all adults, with a staff to guest ratio of about 2:1, maybe even 1:1 during the week here.  All of them greet you with a smile and the Fijian greeting of "Bula!" 
 
@@ -41,10 +41,10 @@ There are other activities you can sign up for, such as taking a wave runner for
 
 I'm exhausted just listing all of these things!  😀
 
-![Infinity](../images/likuliku_pool.jpg)
+![Infinity](../images/NZ/likuliku_pool.jpg)
 
 Tomorrow we will spend the day here at the resort, then take the 4:00 ferry back to the main island and catch a cab to the airport.  Our Fiji airlines flight leaves tomorrow night at 9:40pm and we arrive 13 hours later,  the same day (well before we leave) in LA.  In fact we leave Fiji at 9:40pm on January 25th and we will arrive in Minneapolis at 9:00pm on January 25th.  Teleportation anyone?
 
-![Sunset](../images/fiji_sunset.jpg)
+![Sunset](../images/NZ/fiji_sunset.jpg)
 
  
