@@ -38,7 +38,9 @@ MATH_JAX = {'process_escapes':True}
 LINKS = (('Runestone Interactive', 'http://runestoneinteractive.org'),
          ('Python Books', 'http://interactivepython.org/'),
          ('Everyday Python', 'http://everydaypython.org/'),
-         ('Luther College', 'http://www.cs.luther.edu'),)
+         ('Luther College', 'http://www.cs.luther.edu'),
+         ('Buy My House', 'http://millerdreamhome.com'),
+         )
 
 
 THEME='themes/pelican-bootstrap3'
