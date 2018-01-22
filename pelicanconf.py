@@ -4,12 +4,12 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Brad Miller'
 SITENAME = 'A Reputable Journal'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://localhost:5000'
 
 PATH = 'content'
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['pelican_youtube', 'gallery', 'thumbnailer', 'tag_cloud', 'sitemap', 
-'liquid_tags.notebook', 'render_math', 'share_post'
+PLUGINS = ['pelican_youtube', 'gallery', 'thumbnailer', 'tag_cloud', 'sitemap',
+'liquid_tags.notebook', 'render_math', 'share_post', 'ipynb.markup'
 ]
 
 STATIC_PATHS=['images','static']

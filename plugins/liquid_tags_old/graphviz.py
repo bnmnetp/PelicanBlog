@@ -45,7 +45,7 @@ Examples
 
 Output
 ------
-<span class="graphviz" style="text-align: center;"><img src="data:image/png;base64,_BASE64_IMAGE DATA_/></span>
+<div class="graphviz" style="text-align: center;"><img src="data:image/png;base64,_BASE64_IMAGE DATA_/></div>
 
 """
 
@@ -116,7 +116,8 @@ def graphviz_parser(preprocessor, tag, markup):
         output = run_graphviz(program, code)
 
         # Return Base64 encoded image
-        return '<span class="graphviz" style="text-align: center;"><img src="data:image/png;base64,%s"></span>' % base64.b64encode(output).decode('utf-8')
+        return '<div class="graphviz" style="text-align: center;"><img src="data:image/png;base64,%s"></div>' % base64.b64encode(output)
+
     else:
         raise ValueError('Error processing input. '
                          'Expected syntax: {0}'.format(SYNTAX))

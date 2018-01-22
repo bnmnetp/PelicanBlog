@@ -39,7 +39,6 @@ in the STATIC_PATHS setting, e.g.:
 """
 import re
 import os
-import sys
 from .mdx_liquid_tags import LiquidTags
 
 
@@ -125,18 +124,11 @@ def include_code(preprocessor, tag, markup):
     else:
         lang_include = ''
 
-    if sys.version_info[0] < 3:
-        source = (open_tag
-                  + '\n\n    '
-                  + lang_include
-                  + '\n    '.join(code.decode(codec).split('\n')) + '\n\n'
-                  + close_tag + '\n')
-    else:
-        source = (open_tag
-                  + '\n\n    '
-                  + lang_include
-                  + '\n    '.join(code.split('\n')) + '\n\n'
-                  + close_tag + '\n')
+    source = (open_tag
+              + '\n\n    '
+              + lang_include
+              + '\n    '.join(code.decode(codec).split('\n')) + '\n\n'
+              + close_tag + '\n')
 
     return source
 
