@@ -1,4 +1,3 @@
-
 Title: Understanding Entrepreneurship -- Part II -- New Beginnings
 Date: 2018-01-31
 Slug: understanding-entrepreneurship-2018-2
