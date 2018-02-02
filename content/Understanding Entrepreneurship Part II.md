@@ -1,6 +1,6 @@
 
 Title: Understanding Entrepreneurship -- Part II -- New Beginnings
-Date: January 31, 2018
+Date: 2018-01-31
 Slug: understanding-entrepreneurship-2018-2
 Tags: Luther, HigherEd, Runestone
 Link: 
