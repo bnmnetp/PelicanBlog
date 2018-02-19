@@ -7,3 +7,5 @@ path.py
 pelican
 pelican-youtube
 Pillow
+ipython
+bs4
