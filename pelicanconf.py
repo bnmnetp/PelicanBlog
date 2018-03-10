@@ -7,9 +7,13 @@ SITENAME = 'A Reputable Journal'
 SITEURL = 'http://localhost:5000'
 
 PATH = 'content'
-PLUGIN_PATHS = ['plugins']
+PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['pelican_youtube', 'gallery', 'thumbnailer', 'tag_cloud', 'sitemap',
-'liquid_tags.notebook', 'render_math', 'share_post', 'ipynb.markup'
+'render_math', 'share_post',     'liquid_tags.youtube',
+    'liquid_tags.notebook',
+    'liquid_tags.include_code',
+    'render_math',
+    'pelican-ipynb.markup'
 ]
 
 STATIC_PATHS=['images','static']
