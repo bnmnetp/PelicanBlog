@@ -1,7 +1,6 @@
 :date: 2018-10-27 10:20:00
 :slug: one_month
-:tags:
-:status: live
+:tags: Life, Minneapolis
 :description: Our first month back in the big city
 
 
