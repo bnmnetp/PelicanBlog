@@ -2,6 +2,8 @@ Title: Remembering John Carlis
 Slug: remembering-john-carlis
 Date: 2018/03/11
 Tags: Reflection, Education, Life
+Cover: /images/076C7A0B-C20B-4279-AFD2-EAB7B1330E53.png
+Summary: I'm thinking of my friend and mentor on my way to his memorial service today.
 Link: 
 Description: Thinking of my friend and mentor on my way to his memorial today.
 
