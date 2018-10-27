@@ -95,7 +95,8 @@ a, a:hover {
 
 .entry-content figcaption, .caption {
     font-size: small;
-    margin-bottom: 2px;
+    margin-bottom: 2em;
+    text-align: center;
 }
 
 .summary img {
@@ -103,6 +104,11 @@ a, a:hover {
     height: auto;
 }
 
+.coverimg {
+    display: block;
+    max-height: 200px;
+    margin: auto;
+}
 
 .floatright, .align-right {
     float: right;
