@@ -1,7 +1,7 @@
 :date: 2018-10-28
 :slug: one_month
 :tags:
-:status: draft
+:status: live
 :description: Our first month back in the big city
 
 
