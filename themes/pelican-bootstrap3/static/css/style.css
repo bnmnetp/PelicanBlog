@@ -104,6 +104,11 @@ a, a:hover {
     height: auto;
 }
 
+div.summary {
+    font-size: larger;
+    font-style: italic;
+    margin-top: 1em;
+}
 .coverimg {
     display: block;
     max-height: 200px;
