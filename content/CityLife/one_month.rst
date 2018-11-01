@@ -4,6 +4,8 @@ City Life
 :date: 2018-10-27 10:20:00
 :slug: one_month
 :tags: Life, Minneapolis
+:cover: /images/Minneapolis/stone_arch.jpg
+:summary: One month into our big adventure of living in downtown Minneapolis and we are loving it!
 :description: Our first month back in the big city
 
 
