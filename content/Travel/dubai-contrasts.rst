@@ -8,7 +8,7 @@ Dubai: City of Contrasts
 :summary: Dubai is an interesting city of contrasts, new and big and over the top in so many places, yet old and traditional in others.  We explore both sides of this place.
 :description: The first stop on our Azamara Spice Route cruise is to spend a few days pre-cruise in Dubai
 
-I once listened to an interesting 99% Invisible podcast that said that Las Vegas was the petri dish for architecture in the United States.  Las Vegas is also the city that keeps on coming to mind as I visit Dubai.  The variety of architecture here is just amazing, especially in the new areas of Dubai -- where by new I mean less than 20 years and in many cases less than 10 years old!  This place is on a mission to make a statement on a global scale.  But even after spending a couple of days here I'm not sure what that statement actually is.
+I once listened to an interesting 99% Invisible podcast that said that Las Vegas was the petri dish for architecture in the United States.  Las Vegas is also the city that keeps on coming to mind as I visit Dubai.  The variety of architecture here is just amazing, especially in the new areas of Dubai -- where by new I mean less than 20 years and in many cases less than 10 years old!  There are amazing buildings with modern architecture everywhere you look.  This place is on a mission to make a statement on a global scale.  But even after spending a couple of days here I'm not sure what that statement actually is.  **Update:** on our tour to the Hajar Mountains yesterday our guide said "Dubai is the Las Vegas of the middle east, just without the gambling". So there are two data points for you on that comparison.
 
 .. figure:: /images/Dubai/NightDhows.jpg
 
