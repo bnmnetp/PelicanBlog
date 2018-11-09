@@ -1,5 +1,5 @@
-Dubai: Wadi Wadi tour of the Hajar Mountains
-============================================
+A Wadi Wadi tour of the Hajar Mountains
+=======================================
 
 :date: 2018-11-08 11:00:00
 :slug: wadi-wadi
