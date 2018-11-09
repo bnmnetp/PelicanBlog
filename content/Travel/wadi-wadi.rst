@@ -4,7 +4,7 @@ Dubai: Wadi Wadi tour of the Hajar Mountains
 :date: 2018-11-08 11:00:00
 :slug: wadi-wadi
 :tags: Travel, SpiceRoute
-:cover: /images/Dubai/jeep_caravan.jpg
+:cover: /images/Wadi/jeep_caravan.jpg
 :summary: Getting out of the city and into the rugged country of Fujaira we see how the Bedouin people live and enjoy the sights of the desert.
 :description: Getting out of the city and into the rugged country of Fujaira we see how the Bedouin people live and enjoy the sights of the desert.
 
@@ -29,3 +29,8 @@ We also made a stop at a luxury hotel for lunch, and a very very short stop at t
 
 When we were getting back on the ship we figured out the reason why they were rushing us.  We were in the last truck as Oscar was clearly one of the more experienced guides and was trying to keep the younger drivers in front of him.  As we were going through security to get back on the ship one of the security guys was counting down. I was 8 and jane was 7 there were only six passengers (all behind us) unaccounted for before the ship could leave port.
 
+
+.. figure:: /images/Wadi/wadi_couple.jpg
+
+    Photo taken by our guide Oscar
+    
