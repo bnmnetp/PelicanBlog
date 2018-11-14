@@ -2,7 +2,7 @@ First World Problems
 ====================
 
 :date: 2018-11-12
-:slug: First-world-problems
+:slug: first-world-problems
 :tags: Travel, SpiceRoute, Mumbai
 :cover: /images/Mumbai/laundry.jpg
 :summary: A day in the Dharavi slum of Mumbai helps put first world problems into perspective 
@@ -34,7 +34,7 @@ He explained that the government tried to clean up the slums and built hi-rise a
 Another stop on our journey was the laundry.  In a way this is similar to the slums in that people both live and work in the laundry.  This is where the washing is done for hospitals and hotels and clothing manufacturers. We were able to take pictures inside here. Each of these large bins is one small business, doing the washing for someone.
 
 
- Its all so strange and different, like a step back in time in some ways.  Imagine that your hospital bedding was sterilized by throwing the sheets into a 50 gallon drum of water heated from below by an open flame!?  Ironing?  Of course they have ironing, have you ever seen an iron that is heated by coal? We saw some of them in use today.
+Its all so strange and different, like a step back in time in some ways.  Imagine that your hospital bedding was sterilized by throwing the sheets into a 50 gallon drum of water heated from below by an open flame!?  Ironing?  Of course they have ironing, have you ever seen an iron that is heated by coal? We saw some of them in use today.
  
  
 So, although this part of the day was really sobering.  We saw some fun and beautiful sites along the way too.  The Victoria train station was very grand, and our stop at the cricket field was very entertaining.  There must have been at least 100 different cricket games going on simultaneously.  We watched as balls were hit across two, three, or even more other games.  It seemed like total chaos to me, but it was clear that everyone was having a great time.
@@ -57,7 +57,7 @@ As far as I could tell the whole place was run on some kind of honor system.  I 
 
 I think the followup email from our guide sums up the day pretty well and since I've been struggling to put the day into words I'll just quote him.
 
-  You hae picked your way through Dharavi's narrow, winding lanes, and witnessed first hand the communal, enterprising spirit that allows so many people to survive and thrive despite the many issues that they face.  We hope you've left having had some of your perceptions about life here challenged.
+  You have picked your way through Dharavi's narrow, winding lanes, and witnessed first hand the communal, enterprising spirit that allows so many people to survive and thrive despite the many issues that they face.  We hope you've left having had some of your perceptions about life here challenged.
 
 To which I can only say, "mission accomplished."
 

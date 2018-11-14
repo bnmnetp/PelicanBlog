@@ -2,7 +2,7 @@ Kochin: Houseboats and Driving
 ==============================
 
 :date: 2018-11-13
-:slug: Kochi: Houseboats and Driving
+:slug: kochi-houseboats-and-driving
 :tags: Travel, SpiceRoute, Dubai
 :cover: /images/Kochi/boating_bricks.jpg
 :summary: A lot of time in a bus for a lovely ride down the river.  And some hair raising experiences with our bus driver!
