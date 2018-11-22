@@ -35,10 +35,17 @@ After the balloon we returned in our Carbus to the hotel where we cleaned up, ha
 
 .. figure:: /images/Myanmar/temple.jpg
 
+    Temples all have a North, South, East and West facing Buddha at the entrance.  The biggest and fanciest have two square corridors, an inner and outer.
+
+.. figure:: /images/Myanmar/eBikes.jpg
+
+    Seeing the temples on an electric scooter is the way to go!
 
 After a few hours of "templing" we drove our scooters to a monastery and had a huge burmese lunch.  It is said that one of the kings in Bagan never had a meal with less than 300 dishes.  We had 30.  The traditional meal is to have a main curry and rice dish and then many many side dishes.  We had two different beef curries and one chicken curry.  That leaves 27 different side dishes.  From tofu to pickled bean sprouts to mashed gooseberries to spicy toasted nuts.  We managed to try a bit of everything between us.  Many of them we didn't like at all because they were just too bitter for our western taste buds.  I'm not sure that even my friend (JMS) would have cleaned up all the food they served us.
 
 .. figure:: /images/Myanmar/lunch.jpg
+
+    Lunch at the monestary. You can see all of the side dishes we had around the outside of the circle.
 
 One of the best things about our guide was that he didn't overdue the temples.  After lunch he said we could continue if we wanted or we could go back to the room for some rest and refreshment before he picked us up at 4:00 for our carriage ride and sunset watching.  We opted for resting and trying out the rum sour drinks from the hotel bar that our guide had recommended we sample.  They were very refreshing all on their own.
 
@@ -46,9 +53,10 @@ The carriage ride was very peacful and the sunset was beautiful.
 
 .. figure:: /images/Myanmar/sunset.jpg
 
+    Sunset over the temples
+
 After sunset we were beat, so we had an early dinner by the pool and enjoyed the
 reflection of the nearby temples in pool.  It was another early night to bed as we knew we were off to the airport first thing in the morning.
 
-.. figures:: /images/Myanmar/sunset.jpg
 
 My one worry about the hole Bagan adventure had been that we were not leaving ourselves a very good safety margin for getting back to the ship at the end of it all.  Our flight was schedule to arrive at 10:10 and the roads and traffic in Yangon are so bad that it takes at least an hour and a half to drive from the port to the airport.  With our ship leaving at 1:00 I would have liked a bit more time.  On top of that virtually everyone we met was flying back the night before for that very reason.  Of course they all missed the sunset.  So... when the time to board our plane passed and the ground crew told me that our flight was delayed by 30 minutes due to weather in Heho my stomach began to churn a bit.  My internal safety deadline of 11:00 was getting uncomfortably close.  Of course we knew that we had our passports and credit cards and more than a day to catch up with the ship in Phuket if we "missed the boat." So there really wasn't anything to worry about.  But sometimes you still do even when you shouldn't.  Our plane landed at 10:50 and our guide was waiting for us.  He joked that they had the privte jet all fueled up and ready to take us to Phuket, but we made it back to the ship before it sailed anyway.
