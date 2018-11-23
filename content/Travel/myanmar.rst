@@ -11,6 +11,10 @@ Sunrise to Sunset in Bagan, Myanmar
 
 One of the cool things about this Azamara journey is that the ship stays for three nights in Yangon (old Rangoon) which allows some of the more adventurous travelers the opportunity to do an overnight trip to the interior of Myanmar (formerly known as Burma).  Our friends Ann and Jerry got us very excited about seeing the temples of Bagan so this was the perfect opportunity to do that.
 
+.. figure:: /images/Myanmar/balloon_group.jpg
+
+    sixteen people to a balloon in the early morning over the temples of Bagan
+
 Jane worked with Trufflepig travel agency to plan our days to get the most out of the adventure. Which we definitely did as we were off the ship early on our first morning in port and were were among the very last handful of passengers to board less than an hour before we sailed away from Myanmar! Our first day was a fairly nice tour of Yangon.  The main attraction is the huge gold covered Schwedagon Pagoda.  They were in the midst of a project they do every five years to replace the gold plating on the dome of the pagoda.  We saw families dressed in their finest bringing a 10 by 10 inch plate of gold to place in a small cart that would go by wire up to the dome where it would be put in place.  This must be the most expensive pagoda in the world, as the very tip of the pagoda is encrusted with diamonds, rubies and sapphire gems worth millions.  
 
 The expense of the pagoda stands in stark contrast to everything around it.  It seems that people are giving away their life savings to decorate this place.  Its a part of the culture that I would definitely like to understand more about.  I should also point out that Myanmar is also fairly well endowed with gold mines, diamond mines as well as mines containing rubies and sapphires.  But like many of our other stops there is also a huge amount of poverty.
