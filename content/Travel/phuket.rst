@@ -3,7 +3,7 @@ Bond, James Bond... Island
 
 :date: 2018-11-23
 :slug: Bond-James-Bond-Island
-:tags: Travel, SpiceRoute, Dubai
+:tags: Travel, SpiceRoute, Thailand
 :cover: /images/Phuket/phuket_banner.jpg
 :summary: A fairly typical day on a swimming and snorkeling expedition, except that we are in Phuket Thailand!
 :description: A fairly typical day on a swimming and snorkeling expedition, except that we are in Phuket Thailand!

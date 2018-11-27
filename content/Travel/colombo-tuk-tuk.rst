@@ -3,7 +3,7 @@ Driving a Tuk Tuk in Colombo
 
 :date: 2018-11-14
 :slug: Driving-a-TukxTukxin-Colombo
-:tags: Travel, SpiceRoute, Dubai
+:tags: Travel, SpiceRoute, SriLanka
 :cover: /images/SriLanka/driving.jpg
 :summary: What could be more fun than a tuk tuk tour of Colombo?  Getting to drive the tuk tuk!
 :description: What could be more fun than a tuk tuk tour of Colombo?  Getting to drive the tuk tuk!
