@@ -11,7 +11,7 @@ Progressive Trivia Champions!
 
 On our first day at sea we looked at the schedule of activities on board the ship and Jane said, "We should go take a bridge lesson." Having tried to learn bridge before I thought it sounded like a fun idea, maybe it would stick this time.  So we showed up at the appointed time of 10AM and there were a bunch of us.  We were among the youngest but certainly not the only people in our age bracket.  Our teacher was named Rhoda, clearly a longtime New Yorker. Also a lifelong teacher, she taught reading for most of her career.  Most of the other beginners had never even played cards before so I have to give them credit for starting with Bridge.  All our nights of 500 were a definite advantage in the playing phase of Bridge.  We didn't even start learning how to bid until the second lesson, but before we knew it we were adding high card points, learning about 5 card major openings, Jacoby transfers, Staymen, forcing bids, no trump responses, and the other conventions of American Standard bridge bidding!  
 
-.. figure:: /images/Seadays/rohda.jpg
+.. figure:: /images/Seadays/rhoda.jpg
 
     This is Rhoda.  She was a great teacher and really funny!  If I can remember her little memory ditties for remembering all the bridge strategy she taught us I might actually get good someday.
     
@@ -35,5 +35,9 @@ I also sang in the choir, which was fun, but at the end of it all we were not ve
 
 
 .. figure:: /images/Seadays/choir.jpg
+
+    The performance of the High-C's choir on the final night of the cruise.
+    
+.. figure:: /images/Seadays/livingroom.jpg
 
     The front of the ship, known as the Living Room (or the Library according to Jane) was a favorite hangout in the late afternoon.
