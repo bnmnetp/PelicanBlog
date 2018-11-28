@@ -26,9 +26,9 @@ Chanda, Pearly's husband drove us to the market where we waited for Pearly to ar
 
 After the market tour we drove to Pearly and Chanda's home where she gave us a tour of the garden and then brought us to our cooking stations.  Since Jane and I were the first to sign up for the class we got to choose the dishes to make!  We made three dishes:
 
-* Chicken Curry
-* Prawns in Cashew sauce
-* Pork in crispy bean roll
+* Curry Kapitan
+* Sambal Goreng -- Prawns in Cashew nut sauce
+* Ngor Hiang Lor Bak - 5 spice pork roll
 
 None of these is the traditional Penang curry that we eat back home, but they are all traditional Nyonya dishes.  Pearly is a fifth generation chinese living in Penang and they are the Nyonya.  Over the years of cooking for the British they developed a style of cooking that was very flavorful but not as spicy as their Thai counterparts.
 
