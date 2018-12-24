@@ -77,6 +77,8 @@ SITEMAP = {
     }
 }
 
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
