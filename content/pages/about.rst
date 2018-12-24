@@ -9,13 +9,13 @@
 About Me
 ========
 
-.. image:: /images/head_shot_2013.jpg
-   :width: 200px
+.. image:: /images/me.jpg
+   :width: 300px
 
 Brad Miller
 -----------
 
-Brad Miller is an Associate Professor of Computer Science at Luther College He is the founder of `Runestone Interactive <http://runestoneinteractive.org>`_. He loves to travel, hack, bike and cook. Not necessarily in that order.
+Brad Miller is Professor Emeritus of Computer Science at Luther College He is the founder of `Runestone Interactive <http://runestoneinteractive.org>`_. He loves to travel, hack, bike and cook. Not necessarily in that order.
 
 Social Media
 ------------
@@ -23,16 +23,18 @@ Social Media
 * Follow me on twitter, I am `@bnmnetp <https://twitter.com/bnmnetp>`_
 * Connect with me on `LinkedIn <http://www.linkedin.com/in/bnmnetp>`_
 * My projects on `Github <https://github.com/bnmnetp>`_
-* Want to meet in-person? `Here's my calendar <https://calendar.google.com/calendar/embed?src=millbr02%40luther.edu&ctz=America/Chicago&mode=WEEK>`_
+
 
 Bio
 ---
 
-Brad Miller has been a professor in the Computer Science department of Luther College since 2003. Prior to joining Luther College Brad was Founder and Vice President of Product Development for Net Perceptions, the leading supplier of recommendation system software until the Internet bubble burst in 2001. Some of Net Perceptions' customers included Amazon.com, N2K CDNow, J.C. Penny, Great Universal Stores, and over 70 others. Miller, along with Steven Synder and Ph.D. advisor John Riedl founded Net Perceptions on the Miller deck in 1996. The company was an outgrowth of the Grouplens research group at the University of Minnesota. While at Net Perceptions Miller grew a team of software developers from five to 130 people working on six different products.
+Brad Miller was a professor in the Computer Science department at Luther College beginning 2003. In 2017 he helped create the Data Science major and became chair of CS and DS. Prior to joining Luther College Brad was Founder and Vice President of Product Development for Net Perceptions, the leading supplier of recommendation system software until the Internet bubble burst in 2001. Some of Net Perceptions' customers included Amazon.com, N2K CDNow, J.C. Penny, Great Universal Stores, and over 70 others. Miller, along with Steven Synder and Ph.D. advisor John Riedl founded Net Perceptions on the Miller deck in 1996. The company was an outgrowth of the Grouplens research group at the University of Minnesota. While at Net Perceptions Miller grew a team of software developers from five to 130 people working on six different products.
 
 After an Article in the New Yorker magazine by Malcolm Gladwell, Net Perceptions was featured on an ABC Nightline show in Dec 1999. In 2000, Miller, CEO Steven Snyder, and CTO John Riedl received the World Technology Network award in the Commerce category for their contributions to E-Commerce. Net Perceptions also received the MIT Sloan School E-Commerce Award for Technology Innovation in May 1999. In 2010 Miller and the rest of the Grouplens research team from the University of Minnesota were recognized for their lasting contribution to the software world with an ACM Software Systems Award.
 
-At Luther, Miller is engaged in a new line of research, exploring technologies and tools for interactive textbooks. This work is under the umbrella of Runestone Interactive. Two textbooks, developed with the Runestone Tools, are used at Luther and over 300 institutions around the world. The book is open source and available to anyone who wants to learn computer science. We have readers from over 170 different countries around the world. The textbooks are available on our `website <http://interactivepython.org>`_ .  In addition to teaching and researching introductory computer science Miller also teaches Networking, Computer Graphics, Machine Learning,  and Internet Programming.
+At Luther, Miller began a new line of research, exploring technologies and tools for interactive textbooks. This work is under the umbrella of Runestone Interactive. Two textbooks, developed with the Runestone Tools, are used at Luther and over 300 institutions around the world. The book is open source and available to anyone who wants to learn computer science. We have readers from over 170 different countries around the world. The textbooks are available on our `website <http://interactivepython.org>`_ .  In addition to teaching and researching introductory computer science Miller also teaches Networking, Computer Graphics, Machine Learning,  and Internet Programming.
+
+Since leaving Luther in 2018 Miller has focused on expanding Runestone Interactive.  To accomplish this goal he has partnered with the Eng Edu team at Google where Runestone is the platform for the Applied Computing series course AC-101 and AC-201.
 
 Interviews and other cool Stuff
 -------------------------------
