@@ -9,7 +9,7 @@ Search - {{ super() }}
     {% include 'includes/minify_tipuesearch.html' with context %}
     {% else %}
     <script type="text/javascript" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch_set.js"></script>
-    <script type="text/javascript" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.min.js"></script>
+    <script type="text/javascript" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.js"></script>
     {% endif %}
     <script>
     $(document).ready(function() {

@@ -7,13 +7,15 @@ SITENAME = 'A Reputable Journal'
 SITEURL = 'http://localhost:5000'
 
 PATH = 'content'
+PAGE_PATHS = ['pages']
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['pelican_youtube', 'gallery', 'thumbnailer', 'tag_cloud', 'sitemap',
 'render_math', 'share_post',     'liquid_tags.youtube',
     'liquid_tags.notebook',
     'liquid_tags.include_code',
     'render_math',
-    'pelican-ipynb.markup'
+    'pelican-ipynb.markup',
+    'tipue_search'
 ]
 
 STATIC_PATHS=['images','static']
@@ -36,6 +38,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_SIDEBAR = True
 DISPLAY_TAGS_INLINE = True
 BOOTSTRAP_THEME = 'flatly'
+DISPLAY_PAGES_ON_MENU = True
 
 MATH_JAX = {'process_escapes':True}
 # Blogroll
@@ -73,6 +76,8 @@ SITEMAP = {
         'pages': 'monthly'
     }
 }
+
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
