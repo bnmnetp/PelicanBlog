@@ -1,5 +1,5 @@
 Title: Amazon Observations
-Date: 2019-01-16
+Date: 2019-01-18
 Slug: amazon-finale
 Tags: Travel, Peru
 Cover: /images/Peru/macaw_pair.jpg
