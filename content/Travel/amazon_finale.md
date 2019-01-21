@@ -9,7 +9,7 @@ When is a vacation not a vacation?  When you are on your third day in a row gett
 
 Our first morning at Tambopata we had to be in the boat at 4:30 to head to the island where we were going to observe the Colorado Clay lick.  We were literally up before the birds in order to watch the birds have their breakfast.  It turns out that the best theory for why the birds in this area lick the clay is that it is like a vitamin supplement, providing additional sodium and other minerals in their environment that they do not get from the other stuff that they eat.
 
-We set up our viewing point across a narrow branch of the river from the clay and settled in on our schools before the sun came up.  We had a bit of coffee to keep comfortable (and awake) as we listened to mostly the silence and waited.  Soon the sun started to rise and we spotted a pair of Capibaras swimming in the channel, soon the the silence was broken by a few bird calls which continued to build and build until it was a raucous cacophony of Parrot and Macaw sounds!  We saw thousands of Parrots and small green Macaws, we also saw many of the large reds and the blue and greens.
+We set up our viewing point across a narrow branch of the river from the clay and settled in on our stools before the sun came up.  We had a bit of coffee to keep comfortable (and awake) as we listened to mostly the silence and waited.  Soon the sun started to rise and we spotted a pair of Capibaras swimming in the channel, soon the the silence was broken by a few bird calls which continued to build and build until it was a raucous cacophony of Parrot and Macaw sounds!  We saw thousands of Parrots and small green Macaws, we also saw many of the large reds and the blue and greens.
 
 ![](/images/Peru/claylick.jpg)
 
@@ -18,6 +18,8 @@ We returned from the clay lick in time for breakfast and a short break before ou
 ![](/images/Peru/macaw_chicks.jpg)
 
 This next image is of the parents of the baby keeping a careful watch on the researcher who climbed up to the nest.
+
+![](/images/Peru/watchful_parents.jpg)
 
 You never know what you are going to see on one of the jungle hikes, Today we saw a lot of butterflies and Macaws and spiders, some particularly rare bird that our guide was super excited about but didn’t seem that interesting to me.  It was also super hot and really humid!  It was all really interesting and once we got to the river we were treated to some great views.
 
@@ -39,4 +41,9 @@ The trip back down the river went much faster than the trip up the river — we 
 
 ![](/images/Peru/river_sunrise.jpg)
 
-The jungle is not someplace we are likely to return, but we are really glad that we made the trip to appreciate this amazing part of our planet.
+We are really glad that we made the effort to visit and appreciate this amazing part of our planet.
+
+**Fun Fact**
+One of these trees served as the model for the trees in the movie Avatar, the other is inspired by the trees in Avatar. I’m sure you can guess which is which?  We were lucky to see both of them in the span of two months.
+![](/images/Peru/avatar_tree_real.jpg)
+![](/images/Peru/avatar_tree_fake.jpg)
