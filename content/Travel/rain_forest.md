@@ -5,7 +5,7 @@ Tags: travel, Peru
 Cover: /images/Peru/walking_jaguar.jpg
 Summary: trains, plains, and boats get us from Minneapolis to the Amazon rain forrest in 24 hours
 
-We walked to the light rail station which took us to MSP, from there we flew to Atlanta and onward to Lima Peru.  We spent a very short night in the airport hotel, just across the street from the airport.  After five hours of sleep we had a quick breakfast and headed back across the street where we flew to Cusco and then onward to Puerto Maldonado.  We were met outside the gate by our guide where we took a short transfer to the boat and a few hours later we were in the rain forrest.
+We walked to the light rail station which took us to MSP, from there we flew to Atlanta and onward to Lima Peru.  We spent a very short night in the airport hotel, just across the street from the airport.  `After five hours of sleep we had a quick breakfast and headed back across the street where we flew to Cusco and then onward to Puerto Maldonado.  We were met outside the gate by our guide where we took a short transfer to the boat and a few hours later we were in the rain forrest.
 
 It rained for most of our boat ride to the lodge, but by the time we arrived it was clearing.  This meant that we could do the hike to the observation tower.  A 120 foot high tower that lets you observe all the different layers of the jungle canopy, including from high above where you can see for miles!
 
