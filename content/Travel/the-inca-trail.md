@@ -31,7 +31,11 @@ We thought it looked close, but somehow we kept walking and it never seemed to g
 
 ![](/images/Peru/brad_jane_waterfall.jpg)
 
-It looks a lot more daunting in person than it does in this photo.  And when we finally got to the base I started counting stairs. We were able to do about 60 at a time then we would have to stop and rest and catch our breath.  The altitude definitely makes it harder work!  After 375 stairs we finally arrived at the terrace about 2/3 of the way up where we were able to go across and exit.  This was an amazing place for a picture.
+It looks a lot more daunting in person than it does in this photo.  And when we finally got to the base I started counting stairs. We were able to do about 60 at a time then we would have to stop and rest and catch our breath.  
+
+![](/images/Peru/big_climb.jpg)
+
+The altitude definitely makes it harder work!  After 375 stairs we finally arrived at the terrace about 2/3 of the way up where we were able to go across and exit.  This was an amazing place for a picture.
 
 ![](/images/Peru/brad_jane_terraces.jpg)
 
