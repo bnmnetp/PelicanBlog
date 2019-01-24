@@ -27,7 +27,7 @@ One of the sites we got to see along our hike was the amazing Wiñay Wayra terra
 
 ![](/images/Peru/winaywayra.jpg)
 
-We thought it looked close, but somehow we kept walking and it never seemed to get any closer.  Finally we came down a few stairs then up a few stairs and stopped for a rest at the base of a waterfall.  This was our time to gather our energy for the climb through Wiñay Wayra.
+We thought it looked close, but somehow we kept walking and it never seemed to get any closer.  Finally we came down a few stairs then up a few stairs and stopped for a rest at the base of a waterfall. This was our time to gather our energy for the climb through Wiñay Wayra.  When we arrived the group of nine was just leaving, so we felt like we were doing a good job of keeping the pace.
 
 ![](/images/Peru/brad_jane_waterfall.jpg)
 
@@ -35,17 +35,19 @@ It looks a lot more daunting in person than it does in this photo.  And when we 
 
 ![](/images/Peru/brad_jane_terraces.jpg)
 
-This was basically the end of the uphill part.  Both of us were extremely happy about that.  The next couple of hours were pretty easy and we made good time.  The first big surprise of the afternoon came when I came around a corner and in the middle of the bridge ahead of me was a Spectacle Bear! It saw me and quickly headed the other direction.  It moved off the path but Fernando advised us to just be quiet and wait.  Soon we saw it again climbing across the limb of the tree.
+This was basically the end of the uphill part.  Both of us were extremely happy about that.  The next couple of hours were pretty easy and we made good time.  At some point along the way we even passed the larger group, saying our cheerful hellos as we passed.  
+
+The first big surprise of the afternoon came when I came around a corner and in the middle of the bridge ahead of me was a Spectacle Bear! It saw me and quickly headed the other direction, while I fumbled to try to unclip my camera.  It moved off the path but Fernando advised us to just be quiet and wait.  Soon we saw it again climbing across the limb of the tree.
 
 ![](/image/Peru/speckled_bear.jpg)
 
-Our guide had told us about the bear earlier, and told us that it is one of two bears in the world that are vegetarian.  He also said that this was only the second time in 25 years that he had seen one up close like this.
+Our guide had told us about the bear earlier, and we knew that it is one of two bears in the world that are vegetarian.  He also said that this was only the second time in 25 years that he had seen one up close like this.
 
-A bit further along we arrived at the first part of the trail where we started to climb toward the Sun Gate.  Then we walked some more and came to the second part of the ascent, and then we arrived at the really hard part.
+A bit further along we arrived at the first part of the trail where we started to climb toward the Sun Gate.  Then we walked some more and came to the second part of the ascent, and then we arrived at the really hard part.  You can get a good idea of how steep this was and a view of my best side.
 
 ![](/images/Peru/brad_monkey_climb.jpg)
 
-We thought we would be there but we still had 10 more minutes of walking and another bunch of stairs yet!  When we finally got to the end it was so worth it!  And we had the view all to ourselves. 
+We thought we would be there but we still had 10 more minutes of walking and another bunch of stairs yet!  But when we finally got to the end it was so worth it!  And we had the view all to ourselves. 
 
 ![](/images/Peru/sun_gate_view.jpg)
 
