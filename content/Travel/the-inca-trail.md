@@ -13,7 +13,7 @@ When we arrived at the lobby to meet our guide, Bonni was on the phone with thei
 
 About halfway to the drop off point the rain stopped!  By the time we were ready to hit the trail we could actually see a few patches of blue sky peeking through the clouds.  This was looking like a good day for hiking after all!
 
-![](/images/Peru/brad_trail.jpg)
+![](/images/Peru/trail_brad.jpg)
 
 The one day hike has three main parts.  The first half is up hill where we gained over 1500 feet of elevation.  The next section is billed as being pretty flat, but that’s a lie.  It’s flat until the end where you have to climb up to the Sun gate.  From the Sun gate its all downhill, but that is maybe the last 1/8 of the 7.5 mile hike.
 
