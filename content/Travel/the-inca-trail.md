@@ -21,13 +21,13 @@ We took it at a good pace and enjoyed most of the climb.  The scenery got better
 
 Soon we were high enough to look down on the trains as they passed with passengers heading to Agua Caliente.
 
-![](/images/Peru/agua_caliente_train.jpg)
+![](/images/Peru/agua_caliente_trail.jpg)
 
-One of the sites we got to see along our hike was the amazing Wiña Wayna terraces.  It was beautiful to see from the distance.
+One of the sites we got to see along our hike was the amazing Wiñay Wayra terraces.  It was beautiful to see from the distance.
 
 ![](/images/Peru/winaywayra.jpg)
 
-We thought it looked close, but somehow we kept walking and it never seemed to get any closer.  Finally we came down a few stairs then up a few stairs and stopped for a rest at the base of a waterfall.  This was our time to gather our energy for the climb through Wiña Wayna.
+We thought it looked close, but somehow we kept walking and it never seemed to get any closer.  Finally we came down a few stairs then up a few stairs and stopped for a rest at the base of a waterfall.  This was our time to gather our energy for the climb through Wiñay Wayra.
 
 ![](/images/Peru/brad_jane_waterfall.jpg)
 
