@@ -39,7 +39,7 @@ This was basically the end of the uphill part.  Both of us were extremely happy 
 
 The first big surprise of the afternoon came when I came around a corner and in the middle of the bridge ahead of me was a Spectacle Bear! It saw me and quickly headed the other direction, while I fumbled to try to unclip my camera.  It moved off the path but Fernando advised us to just be quiet and wait.  Soon we saw it again climbing across the limb of the tree.
 
-![](/image/Peru/speckled_bear.jpg)
+![](/images/Peru/speckled_bear.jpg)
 
 Our guide had told us about the bear earlier, and we knew that it is one of two bears in the world that are vegetarian.  He also said that this was only the second time in 25 years that he had seen one up close like this.
 
