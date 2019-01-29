@@ -2,7 +2,7 @@ Title: Galápagos Islands!!
 Date: 2019-01-27
 Slug: Galápagos-day1
 Tags: Travel, Galapagos
-Cover: /images/Peru/rabida_pano.jpg
+Cover: /images/Galapagos/rabida_pano.jpg
 Summary: Our first day in the Galápagos Islands is everything we ever thought it would be and more!
 
 Iguanas fighting over territory, thousands of crabs, two species of sea lions, lizards galore, birds and even a snake; this is what we saw on our first day in the Galápagos!
