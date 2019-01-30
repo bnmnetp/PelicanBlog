@@ -2,7 +2,7 @@ Title: Galápagos Day 2
 Date: 2019-01-29
 Slug: Galápagos-day2
 Tags: Travel, Galapagos
-Cover: /images/Galapagos/g_pano.jpg
+Cover: /images/Galapagos/tagus_pano.jpg
 Summary: Day 2 brings a morning zodiac tour and a beautiful afternoon snorkel trip and hike.
 
 Looking out the window in the morning we couldn’t see anything.  Had our luck changed?  Were we going to have a rainy day after all?  I went up on deck to investigate and was happy to see that it was just a dense fog.  Caused by the cold water currents running up against the Galapagos ridge.  It would burn off.  All credit to Ann who insisted that we take the 10:00 excursion rather than the 8:00 excursion.  This is what the fog looked like just before we boarded our zodiac at 10.
@@ -60,3 +60,7 @@ We took another short zodiac ride to view the geology of the volcano and some of
 After we got back on the ship we had time to relax with a happy hour drink and enjoy the amazing sunset.
 
 ![](/images/Galapagos/tagus_sunset.jpg)
+
+Up next was a delicious dinner where we watched one of our exhausted fellow passengers fall asleep right at her table with conversation and laughter going on all around her.  
+
+After dinner there was a small party to celebrate crossing the equator on our way around the north end of Isabella island.  We were all encouraged to do the limbo and imitate one of our favorite Galapagos animals.  As a group we did the blue footed boobie dance, and narrowly lost the contest to a couple imitating sea lions.
