@@ -42,3 +42,14 @@ This was a great culinary experience and I would highly recommend it to anyone v
 
 ![](/images/Peru/outdoor_lunch.jpg)
 
+## Saqsay Waman
+
+![](/images/Peru/saqsay_sign.jpg)
+
+OK, if you say the above title out loud a few times you will know that I had to include that in this post. — Not getting it?  Then think Sexy Woman.  No, its not a risqué statue in the middle of Cusco it is another huge Incan structure on one of the many hills surrounding Cusco. 
+
+![](/images/Peru/saqsaywaman.jpg)
+
+The walk around the Saqsay Waman site was also our first chance to get up close to a Llama (pronounced Yama by the locals)
+
+![](/images/Peru/llama.jpg)
