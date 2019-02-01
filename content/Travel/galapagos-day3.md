@@ -1,5 +1,5 @@
 Title: Galápagos Day 3 — Pinnacle Rock
-Date: 2019-01-29
+Date: 2019-01-30
 Slug: Galápagos-day3
 Tags: Travel, Galapagos
 Cover: /images/Galapagos/bartolome_pano.jpg
