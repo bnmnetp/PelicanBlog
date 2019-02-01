@@ -2,7 +2,7 @@ Title: Cusco Cooking!
 Date: 2019-01-24
 Slug: cusco-cooking
 Tags: Travel, Peru
-Cover: /images/Peru/lomo_saltada.jpg
+Cover: /images/Peru/lomo_saltado.jpg
 Summary: A morning Cooking Class with Jose at Peru Culinary Adventures is great fun!
 
 After a morning with Chef Jose you will definitely believe that Peru is the center of the culinary universe, and has been for thousands of years.  Did you know...
