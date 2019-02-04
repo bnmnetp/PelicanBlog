@@ -14,7 +14,9 @@ Along the way we saw a lot of Blue Footed Boobies, we had to leave the trail to 
 
 ![](/images/Galapagos/blue_with_eggs.jpg)
 
-The blue footed boobies take turns on the nest, if you can call it that.  It’s barely even a hole in the ground.  Further, they don’t really even sit on the eggs, they kind of cradle them with their feet.
+The blue footed boobies take turns on the nest, if you can call it that.  It’s barely even a hole in the ground.  Further, they don’t really even sit on the eggs, they kind of cradle them with their feet.  Here’s a picture of the “changing of the guard”
+
+![](/images/Galapagos/changing_the_guard.jpg)
 
 The reds are not nearly as interesting as the blues.  They are arboreal and so you rarely see them on the ground.  Their feet are red, but not bright red like the bright blue.
 
