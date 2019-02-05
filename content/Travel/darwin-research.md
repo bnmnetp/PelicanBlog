@@ -7,7 +7,7 @@ Summary: Today was an all day adventure, including Darwin Research station, help
 
 We started our day today with a visit to the Darwin Research Center.  One of the main projects at this center is the preservation of the many different species of tortoises on the islands.  Many of which were hunted to near extinction by whalers or pushed out of their habitat by goats, dogs and cats.  The tortoise in the image below is a saddle back!  A close genetic relative of “Lonesome George” that last true Saddleback that died a few years back.  You can see that they have very long necks which is an adaptation for eating the cacti on the desert islands of the Galapagos.
 
-![](/images/Galapagos/saddleback_tortoise.jpg)
+![](/images/Galapagos/saddleback.jpg)
 
 And of course we saw many of the Galapagos Tortoise both at the Darwin center and later on in the wild.
 
