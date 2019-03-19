@@ -2,10 +2,10 @@ Title: AI in the Dominican Republic
 Date: 2019-03-15
 Slug: domincan_republic
 Tags: Travel
-Cover: /images/beach_office.png
+Cover: /images/beach_office.jpg
 Summary: A working vacation in the Dominican Republic is both productive and relaxing, except when you are avoiding the men in the hats.
 
-This all started a year ago when the government posted a travel warning for the Playa area of Mexico where we had booked a week at an all inclusive resort.  Not wanting to take any chances we decided to switch to a cruise at the last minute and book a different resort.  This resulted in us booking at the Cofresi Palms in Puerto Plata. 
+This all started a year ago when the government posted a travel warning for the Playa area of Mexico where we had booked a week at an all inclusive resort.  Not wanting to take any chances we decided to switch to a cruise at the last minute and book a different resort.  This resulted in us booking at the Cofresi Palms in Puerto Plata.
 
 However, coming on the heels of two very long vacations I needed to make this something of a working vacation to make sure the materials for the AC201 course were as good as possible.
 
@@ -13,7 +13,7 @@ However, coming on the heels of two very long vacations I needed to make this so
 
 A couple of mornings I worked in our room, which was a really nice two bedroom suite with wonderful views of the beach.  But then we discovered these covered beds right on the beach, big enough for all of us to hang out together and in the shade, with good enough WiFi for everything except video conferencing.  So I switched — can you blame me?
 
-![My office](/images/beach_office.png) 
+![My office](/images/beach_office.jpg)
 
 Traveling with our friends Brian and Holly is always super relaxing.  Whether its hanging at the pool bar or playing cards at the beach we always have a great time.  We planned absolutely no activities for this week so it was really all about reading, and lounging, which made it easy for me to mix in some work too.
 
