@@ -35,5 +35,5 @@ jobs:
       - name: Build with Pelican
         run: |
           # stop the build if there are Python syntax errors or undefined names
-          echo "$PELICAN_LOGIN" > id_rsa
+          echo "${PELICAN_LOGIN}" > id_rsa
           make rsync_upload
