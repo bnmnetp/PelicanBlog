@@ -8,7 +8,7 @@ SITEURL = "http://localhost:5000"
 
 PATH = "content"
 PAGE_PATHS = ["pages"]
-PLUGIN_PATHS = ["pelican-plugins"]
+PLUGIN_PATHS = ["pelican-plugins","my-plugins"]
 PLUGINS = [
     "pelican_youtube",
     "gallery",
