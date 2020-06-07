@@ -85,6 +85,10 @@ else
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server 80 0.0.0.0
 endif
 
+get_key:
+ifeq ("$(wildcard id_rsa)","")
+	secrethub read --out-file foo  bnmnetp/pelican/loginkey
+endif
 
 devserver:
 ifdef PORT
@@ -103,7 +107,7 @@ publish:
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
-rsync_upload: publish
+rsync_upload: publish get_key
 	rsync -e "ssh -i id_rsa -o StrictHostKeyChecking=no -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
 rsync_publish: publish

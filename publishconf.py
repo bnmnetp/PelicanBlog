@@ -7,16 +7,17 @@ from __future__ import unicode_literals
 
 import os
 import sys
+
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://reputablejournal.com'
+SITEURL = "https://reputablejournal.com"
 RELATIVE_URLS = False
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-FEED_ATOM = 'feeds/atom.xml'
-FEED_RSS = 'feeds/feed.rss'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+FEED_ALL_ATOM = "feeds/all.atom.xml"
+FEED_ATOM = "feeds/atom.xml"
+FEED_RSS = "feeds/feed.rss"
+CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
 DELETE_OUTPUT_DIRECTORY = False
 
