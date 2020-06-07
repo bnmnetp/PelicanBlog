@@ -8,7 +8,7 @@ SITEURL = "http://localhost:5000"
 
 PATH = "content"
 PAGE_PATHS = ["pages"]
-PLUGIN_PATHS = ["pelican-plugins","my-plugins"]
+PLUGIN_PATHS = ["pelican-plugins", "my-plugins"]
 PLUGINS = [
     "pelican_youtube",
     "gallery",
@@ -17,11 +17,7 @@ PLUGINS = [
     "sitemap",
     "render_math",
     "share_post",
-    "liquid_tags.youtube",
-    "liquid_tags.notebook",
-    "liquid_tags.include_code",
     "render_math",
-    "pelican-ipynb.markup",
     "tipue_search",
     "m.htmlsanity",
     "m.images",
