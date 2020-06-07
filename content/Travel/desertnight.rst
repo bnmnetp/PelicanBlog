@@ -4,7 +4,7 @@ A Night in the Desert
 :slug: a-night-in-the-desert
 :date: 2015/04/01
 :tags: Travel, Morocco
-:link: 
+:link:
 :description: Being in the moment on a camel, in the desert
 :type:  text
 
@@ -17,7 +17,6 @@ Note:  This is an expanded version of a post that I wrote for Luther's Ideas and
 
 .. image:: /images/Desert/oasis.jpg
    :width: 200px
-   :align: right
 
 So, where were we?  We began our day watching the sunrise on the rooftop terrace of our Riad in the ancient city of Fez Morocco.  From there we travelled through the Middle Atlas Mountains with stops for a snowball fight and monkey feeding.  We descended from the mountains into the plains where we travelled through towns abandoned with the overland spice trade.  Ultimately, the plains turn to desert with high plateaus.  We experienced the wonder of coming around a bend and seeing a valley oasis, full of Date Palms. We ended our day about 35 kilometers from the Algerian border, at a desert camp site watching the sun set over the Moroccan desert.  It was quite a day.
 
@@ -39,11 +38,9 @@ There were no distractions from this group experience as we had no cell service 
 
 .. image:: /images/Desert/luther.jpg
    :width: 200px
-   :align: left
 
 This morning, when I got to the top of the dune to watch the sun rise, I found a water bottle left over from a previous group.  The wind had blown the sand over and around the bottle leaving a very interesting pattern on the leeward side.   A miniature example of the sand dunes and the desert as a whole.  I don't know what the last two days will mean for the students in the long run.  I don't even know how today's experience will shape my own future.  But I know it will, as each past travel adventure has left its mark.  It strikes me that the  bottle and the dunes are a great metaphor for study abroad and Lutheran higher education.  We can lecture for hours, and give them days of homework,  but it is these experiences that will shape our students in ways we cannot possibly imagine or plan.
 
 .. figure:: /images/Desert/cameltrain.jpg
 
 
- 
