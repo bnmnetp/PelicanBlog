@@ -4,7 +4,7 @@ A New Way to Travel
 :date: 2020-06-07
 :slug: new-travel-mo
 :tags: Life, Travel
-:cover: IMG_2414.jpeg
+:cover: Camping/IMG_2414.jpeg
 :summary: The Novel Coronavirus causes us to rethink our travel plans for the next few  years
 :description: We bought a camper!
 
@@ -44,6 +44,6 @@ The Q7 is perfectly capable of towing our new Rockwood Mini-Light camper.  As yo
     {static}/Camping/IMG_2412.png
     {static}/Camping/IMG_2415.png
 
-We look forward to the maiden voyage of the camper this week with a trip to the newly reopened Copper Falls state park of Wisconsin.  Who knows, I might even pack my fishing pole and try my hand at trout fishing for the first time in over ten years!
+We look forward to the maiden voyage of the camper this week with a trip to the newly reopened Copper Falls state park of Wisconsin.  Although the current weather forecast is calling for two days of cold and rain! Who knows, I might even pack my fishing pole and try my hand at trout fishing for the first time in over ten years!
 
 Stay tuned for more reports from the road, and across these beautiful United States.

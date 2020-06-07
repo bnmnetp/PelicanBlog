@@ -34,6 +34,6 @@ jobs:
     - name: Build with Pelican
       run: |
         # stop the build if there are Python syntax errors or undefined names
-        export DEMO_USERNAME=secrethub://bnmnetp/start/hello
-        make html
+        export USERNAME=secrethub://bnmnetp/pelican/username
+        make rsync_upload
 

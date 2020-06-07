@@ -15,6 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=bnmnetp.me
 SSH_PORT=22
 SSH_USER=bmiller
+KEY_FILE=id_rsa
 SSH_TARGET_DIR=/usr/share/nginx/html
 
 S3_BUCKET=my_s3_bucket
@@ -103,7 +104,8 @@ ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 rsync_upload: publish
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
+	secrethub read --out-file id_rsa bnmnetp/pelican/loginkey
+	rsync -e "ssh -i id_rsa -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
 rsync_publish: publish
 	rsync  -rvzc --delete $(OUTPUTDIR)/ $(SSH_TARGET_DIR) --cvs-exclude
