@@ -50,10 +50,9 @@ MATH_JAX = {"process_escapes": True}
 # Blogroll
 LINKS = (
     ("Runestone Interactive", "http://runestoneinteractive.org"),
-    ("Python Books", "http://interactivepython.org/"),
+    ("Python Books", "https://runestone.academy/"),
     ("Everyday Python", "http://everydaypython.org/"),
     ("Luther College", "http://www.cs.luther.edu"),
-    ("Buy My House", "http://millerdreamhome.com"),
 )
 
 
@@ -69,6 +68,9 @@ SOCIAL = (
     ("Twitter", "http://twitter.com/bnmnetp"),
     ("Github", "http://github.com/bnmnetp"),
 )
+
+#GITHUB_USER = "bnmnetp"
+SHOW_STRAVA = True
 
 DEFAULT_PAGINATION = 10
 
