@@ -5,7 +5,7 @@ The North Shore
 :slug: north_shore
 :tags: Camping, Travel
 :cover: Camping/NorthShore/IMG_2622.jpeg
-:summary: Our longest trip to date to the North Shore of Lake Superior
+:summary: Our longest trip to date to the North Shore of Lake Superior.  Love this PSA from Cook County!
 :description: From Two Harbors all the way to Grand Portage, we saw some beautiful scenery.
 
 Having grown up in Minnesota, it is a little surprising to me that when I say we went to the North Shore how many people want to know the North Shore of What?  There has never been any question about where the North shore is to someone from the Midwest.  It is that stretch of Lake Superior starting in Duluth and Stretching to Grand Portage.
@@ -41,3 +41,6 @@ Wednesday we stopped and did a very short Shovel Point hike
 .. image:: {static}/Camping/NorthShore/IMG_5289.jpeg
 
 It may have been short but it was definitely beautiful!
+
+.. image:: {static}/Camping/NorthShore/IMG_2622.jpeg
+	   
