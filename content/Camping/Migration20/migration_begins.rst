@@ -10,7 +10,12 @@ Migration West 2020
 
 This is one reason why we bought the camper in the first place.  Take our time heading West, be in control of our environment and enjoy visits to our National Parks.  We started our trip on Jane's birthday and our first stop was in one of the towns I grew up in, Luverne Minnesota.  We spent the night at Blue Mounds State Park.  We met my aunt Jessica and Uncle John for a beer at the Take 16 brewery in town. It was great to see the town again and even more so to catch up with my favorite aunt and uncle.
 
-From Luverne we hopped on I90 and headed West to the Badlands of South Dakota.  We did three relatively short hikes - The Notch, the Door, and the Window.
+From Luverne we hopped on I90 and headed West to the Badlands of South Dakota.  We stopped for lunch at a very scenic rest area overlooking the Missouri river.
+
+.. image:: {static}/Camping/Migration/Dignity.png
+
+
+Towing the camper in a strong north wind does nothing for your gas mileage!  So we don't make speedy progress and probably average 55 miles an hour.  On a freeway with a speed limit of 80 we were passed a lot.  This was pretty hard on Jane as she is usually doing the passing!  Once we arrived at the Badlands we quickly set up camp and headed out to do some hiking.  We did three relatively short hikes - The Notch, the Door, and the Window.
 
 .. image:: {static}/Camping/Migration20/CampgroundFromNotch.png
 
