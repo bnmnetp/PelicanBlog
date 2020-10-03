@@ -4,7 +4,7 @@ Migration West 2020
 :date: October 1, 2020
 :slug: migration_begins
 :tags: Camping, Travel
-:cover: Camping/Migration/Dignity.png
+:cover: Camping/Migration20/Dignity.png
 :summary: Migrating West to California.  18 Days with our Camper and many stops at National Parks
 :description: We are on day two of our Migration West to California.
 
@@ -12,14 +12,18 @@ This is one reason why we bought the camper in the first place.  Take our time h
 
 From Luverne we hopped on I90 and headed West to the Badlands of South Dakota.  We stopped for lunch at a very scenic rest area overlooking the Missouri river.
 
-.. image:: {static}/Camping/Migration/Dignity.png
+.. image:: {static}/Camping/Migration20/Dignity.png
 
 
 Towing the camper in a strong north wind does nothing for your gas mileage!  So we don't make speedy progress and probably average 55 miles an hour.  On a freeway with a speed limit of 80 we were passed a lot.  This was pretty hard on Jane as she is usually doing the passing!  Once we arrived at the Badlands we quickly set up camp and headed out to do some hiking.  We did three relatively short hikes - The Notch, the Door, and the Window.
 
 .. image:: {static}/Camping/Migration20/CampgroundFromNotch.png
 
+This is at the end of the Notch, and you can see our campground in the distance.
+
 .. image:: {static}/Camping/Migration20/rattlesnakes.png
+
+And this is just to make sure you pay attention while you are on the trail!
 
 The Notch hike was by far the best, the other two are just board walks to some scenic views.  The most challenging part of the notch was this little ladder section.  It was so crowded when we wanted to come down that we had to find an alternate route.
 
