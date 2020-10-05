@@ -5,8 +5,8 @@ Custer State Park
 :slug: custer_sp
 :tags: Camping, Travel, Biking
 :cover: Camping/Migration20/legion_lake.png
-:summary: It was not the Tour de France, but I had a great cheering section to keep me going!
-:description: A morning of biking through the badlands and an afternoon hike to Lovers Leap make for a pretty amazing day.
+:summary: Lots of great sights in Custer State Park.  The Black Hills loop, and hiking with Josh, Rachel and Maple.
+:description: Black Hills loop drive and hiking at Legion Lake and Sylvan Lake.
 
 .. image:: {static}/Camping/Migration20/legion_lake.png
 
