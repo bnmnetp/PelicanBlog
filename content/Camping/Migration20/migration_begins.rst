@@ -10,6 +10,8 @@ Migration West 2020
 
 This is one reason why we bought the camper in the first place.  Take our time heading West, be in control of our environment and enjoy visits to our National Parks.  We started our trip on Jane's birthday and our first stop was in one of the towns I grew up in, Luverne Minnesota.  We spent the night at Blue Mounds State Park.  We met my aunt Jessica and Uncle John for a beer at the Take 16 brewery in town. It was great to see the town again and even more so to catch up with my favorite aunt and uncle.
 
+Our route to Luverne was longer than originally planned as we made a detour through Hutchinson MN so Jane could see her dad.  Unfortunately he has had a series of strokes and is at the end of his life.  Its been sad to see him isolated from the family for the last six months due to COVID restrictions, but today Jane got to hug him and tell him she loved him in person.  We don’t know how much longer he has and we are prepared to make whatever changes to our itinerary we need to when he passes.
+
 From Luverne we hopped on I90 and headed West to the Badlands of South Dakota.  We stopped for lunch at a very scenic rest area overlooking the Missouri river.
 
 .. image:: {static}/Camping/Migration20/Dignity.png
