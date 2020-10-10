@@ -17,7 +17,7 @@ If you look at the map you will see that Estes Park Colorado is not on a line be
 
 Today, in fact, we recreated one of our activities from the detour, the hike to Bible Point at YMCA of the Rockies.  Thirty seven years ago we took a selfie, on film, using the timer on the camera.  Jane made a craft project out of that picture in a heart shaped frame with the word Forever painted on the frame.  We still have the picture and the frame, and now we have a new selfie to add to it.
 
-.. image:: {static}/Camping/Migration20/bible_point.png
+.. image:: {static}/Camping/Migration20/bible_point_selfie.png
 
 And the scenery was even more beautiful than I remembered it!  Of course I wasn't really looking at the scenery 37 years ago I was mostly looking at the girl.
 
