@@ -8,7 +8,7 @@ Bible Point
 :summary: We were just two kids, so young and so in love.  Today it was so fun to relive a moment from 37 years ago.
 :description: We were just two kids, so young and so in love.  Today it was so fun to relive a moment from 37 years ago.
 
-.. image:: {static}/Camping/Migration20/aspens.png
+.. image:: {static}/Camping/Migration20/bible_point.png
 
 
 If you look at the map you will see that Estes Park Colorado is not on a line between Sun Valley and Luverne Minnesota.  Thirty seven years ago a nineteen year old boy begged, pleaded, pouted, and cajoled his parents into making a detour to Rocky Mountain National Park on their way home from a conference in Sun Valley Idaho.  The object of this detour was a girl.  A girl they had never met, but who their son was pretty crazy about.  The detour only allowed for a one night visit, but the girl remains to this day.
