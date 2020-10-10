@@ -10,7 +10,7 @@ Custer State Park
 
 .. image:: {static}/Camping/Migration20/legion_lake.png
 
-The day started with an early morning phone call.  Jane's dad Len passed away peacefully during the night.  This was not unexpected as he had had several strokes and nobody wanted him to linger.  He was ready to be with Betty again.
+The day started with an early morning phone call.  Jane's dad Len passed away peacefully during the night.  This was not unexpected as he had had several strokes and nobody wanted him to linger.  He was 95 years old, he lived a good life and touched a lot of people including his many students over his long teaching career.  He was ready to be with Betty again.
 
 We considered a lot of options and discussed timelines with the rest of the family.  In the end we decided to have the funeral on the 24th of October.  This allows us to complete our trip to Indio and gives the grandchildren some time to adjust work schedules.  The funeral will be a small family graveside service in Saint James.
 
