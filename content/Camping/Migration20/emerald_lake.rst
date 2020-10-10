@@ -5,8 +5,8 @@ Judging Someone by their Cover
 :slug: emerald_lake
 :tags: Camping, Travel
 :cover: Camping/Migration20/IMG_3062.png
-:summary: We were just two kids, so young and so in love.  Today it was so fun to relive a moment from 37 years ago.
-:description: We were just two kids, so young and so in love.  Today it was so fun to relive a moment from 37 years ago.
+:summary: Wow! I have done a lot of great hikes in my day but this hike in Rocky Mountain National Park is one of the most moving and beautiful yet.
+:description: A moving and beautiful hike in Rocky Mountain National Park.
 
 .. image:: {static}/Camping/Migration20/IMG_3062.png
 
