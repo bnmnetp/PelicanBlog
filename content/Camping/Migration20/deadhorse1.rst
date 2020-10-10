@@ -20,7 +20,7 @@ Then we had to navigate back through all the traffic again to go to Dead Horse S
 
 Here are some of my favorites from the day.
 
-.. figure:: {static}/Camping/Migration20/deadhorse1.png
+.. figure:: {static}/Camping/Migration20/deadhorse_best.png
 
     Beautiful horseshoe bend in the river.
 
