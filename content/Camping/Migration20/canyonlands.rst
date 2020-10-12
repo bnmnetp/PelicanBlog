@@ -1,5 +1,5 @@
-Oh How Many Layers We Know Now
-==============================
+Oh What Massive Cliffs We Know Now
+==================================
 
 :date: Oct 10, 2020
 :slug: canyonlands
