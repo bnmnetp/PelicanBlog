@@ -5,8 +5,8 @@ Boondocking in Goosenecks
 :slug: boondocking
 :tags: Travel, Camping
 :cover: /Camping/Migration20/goosenecks_view.png
-:summary: {summary}
-:description: {desc}
+:summary: A short day of driving gets us a great reward!  Goosenecks does not take reservations but we got there in time to get a primo campsite!
+:description: I’m so happy we got to stay at Goosenecks State Park in Utah!
 
 
 Goosenecks state park in Utah has, no electric hookup, no water, and no dump station for our black or gray water, and no lights. What it does have are eight incredible camp sites with unparalleled views of the desert plateau and the river.  You have probably seen photos of “Horseshoe Bend” in the Colorado River, Gooseneck is that -- times three!  Our site was situated right at the end of one of those bends and our campsite was right on the edge of the cliff looking down into the river
