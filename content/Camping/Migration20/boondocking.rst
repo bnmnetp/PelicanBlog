@@ -29,4 +29,4 @@ Soon it was happy hour and I tried a Gin and Tonic with my new Gin from Moab.  I
 
 After dinner we got to really enjoy the lack of light pollution and enjoy the stars!  The Milky Way was in full view from horizon to horizon!  We attempted some night photography to capture the beauty but it really doesn’t do it justice.  The night sky was our entertainment for the night and so we turned in knowing that we would head out for Sedona, AZ early.
 
-
+.. image:: {static}/Camping/Migration20/milky_way.png
