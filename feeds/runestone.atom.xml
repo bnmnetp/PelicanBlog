@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Reputable Journal - Runestone</title><link href="https://archive.reputablejournal.com/" rel="alternate"></link><link href="https://archive.reputablejournal.com/feeds/runestone.atom.xml" rel="self"></link><id>https://archive.reputablejournal.com/</id><updated>2018-05-16T00:00:00-05:00</updated><entry><title>Runestone Interactive: The Next Phase</title><link href="https://archive.reputablejournal.com/full-speed-ahead.html" rel="alternate"></link><published>2018-05-16T00:00:00-05:00</published><updated>2018-05-16T00:00:00-05:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2018-05-16:/full-speed-ahead.html</id><summary type="html">&lt;p&gt;Runestone was born during my 2010/11 sabbatical.  We launched interactivepython.org in June of 2012 and used it in class in the fall of 2012 for the first time.  The growth of Runestone has been steady over these last six years  growing by about  1500 — 2000 students each semester …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Runestone was born during my 2010/11 sabbatical.  We launched interactivepython.org in June of 2012 and used it in class in the fall of 2012 for the first time.  The growth of Runestone has been steady over these last six years  growing by about  1500 — 2000 students each semester.  This  graph based on our Google Analytics data gives you a pretty good idea of the slow but steady growth Runestone has seen.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="/images/runestone_analytics.png"&gt;&lt;/p&gt;
+&lt;p&gt;In my earlier days of teaching I would frequently exhort my students to “follow their passions!”  More recently I’ve tried to soften that to tell them to find something they have an interest in.  Passion doesn’t come instantly and it can be discouraging for students who don’t have an instant passion.  I’ve also said that you want to work on something that you find yourself daydreaming about in the shower, first thing in the morning.  For me and Runestone both of these things are true, I increasingly think about Runestone and all of the things I want to work on, and increasingly I would describe Runestone as a passion.  Now its time to act on that passion!&lt;/p&gt;
+&lt;p&gt;Last fall Luther College offered a “separation incentive” to any tenured faculty member with 15 years of service.  This incentive affords me the opportunity to focus on  Runestone full time, for at least a year, and hopefully for the long term.  So I’m happy to announce that as of June 1, 2018 Runestone will be my full time focus.  My goals for the short term are as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Focus on new, improved, and updated content. &lt;/li&gt;
+&lt;li&gt;Find a business model that works for everyone.&lt;/li&gt;
+&lt;li&gt;Build community among instructors and authors using Runestone to write and teach&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;New, Improved and updated content&lt;/h3&gt;
+&lt;p&gt;For several years now the summer development efforts have been focused on improving the user interface for the instructors and building new Runestone components for authors.  While there is still much that could be done in both areas it is time to look more closely at the content and make use of some of these new components in the books.  The videos have not been updated in years and need to be moved to a better platform. &lt;/p&gt;
+&lt;p&gt;In addition many of you have been asking for more instructor materials.  I’ll start working on that right away.&lt;/p&gt;
+&lt;p&gt;My efforts on this front will be supported by a contract position I’ve accepted to work with the engEDU group at Google.  The mission of this group and Runestone are closely aligned and will provide me a much needed perspective on working with and helping create materials to help new instructors.  The work I do with Google will go back into the base and benefit everyone!&lt;/p&gt;
+&lt;p&gt;One of the first projects will be to take a step back and try to evaluate what works well and what could stand some updating and improvement on the content front.  I’ll be reaching out to many of you with a Survey and I hope that you will be willing to take a few minutes to help us out!  For some of my “power users” the evaluation team at Google would also love to conduct some UX interviews.  If you are seeing this and are not  registered for the Runestone_instructors Google group but would like to help out, let me know!&lt;/p&gt;
+&lt;h3&gt;Find a business model that works for everyone&lt;/h3&gt;
+&lt;p&gt;So let me get this out of the way immediately.  Runestone, as it exists today, will continue to be free!  Thats not negotiable.  I can’t say exactly how this will evolve, but I have given myself at least a year to figure it out.&lt;/p&gt;
+&lt;p&gt;Some ideas include: Moving toward a freemium model where there are some future features that  will not be free.  These areas would likely be around deeper integrations with learning management systems like Canvas and Moodle, or developing more resources aimed at instructors,  which instructors would pay for.  I’ll also continue to be a bit more aggressive in asking for contributions.&lt;/p&gt;
+&lt;p&gt;I’ve thought about making the public version of some books show an ad on each page.  A lot of our traffic is actually driven from search.  I could show a banner ad to people who arrive at a Runestone page via search and probably develop a reasonable revenue stream from that.  Rest assured that I would not show ads on courses created by you, or for anyone who has a registered username.&lt;/p&gt;
+&lt;h3&gt;Build community among instructors and authors&lt;/h3&gt;
+&lt;p&gt;Did you know that Runestone books are used in over 600 schools?  Did you  know that Runestone books have been translated into at least six different languages?  I just today happened across a Portuguese translation that I didn’t know anything about!  I’m amazed and excited every time I get an email from someone telling me they have published a textbook using the Runestone tools.&lt;/p&gt;
+&lt;p&gt;In my department we all learn a lot by talking about teaching, comparing notes, and sharing what works and what doesn’t work with each other.  I believe that Runestone has an incredible untapped potential.  You already are part of a very large community!   A community of people that use the same textbook.  Although we all move at different speeds and have very different students I know we can all learn a lot from each other if we find a way to make communication between all of us easy.&lt;/p&gt;</content><category term="Runestone"></category><category term="Runestone"></category></entry><entry><title>Update! Response Time Analysis of Runestone API’s</title><link href="https://archive.reputablejournal.com/api-update.html" rel="alternate"></link><published>2018-02-25T00:00:00-06:00</published><updated>2018-02-25T00:00:00-06:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2018-02-25:/api-update.html</id><summary type="html">&lt;img class="m-image" src="/images/update_avg_api_latency.png" /&gt;
+&lt;p&gt;The graph pretty much tells the story.  Things are &lt;strong&gt;much&lt;/strong&gt; better after upgrading to a server with two more CPUs!  You can see that the latencies are below their old levels starting on the 19th.&lt;/p&gt;
+&lt;p&gt;This afternoon I dusted off my old Bank Teller simulation that I use in Data …&lt;/p&gt;</summary><content type="html">&lt;img class="m-image" src="/images/update_avg_api_latency.png" /&gt;
+&lt;p&gt;The graph pretty much tells the story.  Things are &lt;strong&gt;much&lt;/strong&gt; better after upgrading to a server with two more CPUs!  You can see that the latencies are below their old levels starting on the 19th.&lt;/p&gt;
+&lt;p&gt;This afternoon I dusted off my old Bank Teller simulation that I use in Data Structures class and set it up to approximate the API calls and latencies that I was experiencing.  Sure enough a 30% drop in performance makes a much bigger difference than you would think!&lt;/p&gt;
+&lt;p&gt;Here are the results, which I think pretty well match my experience.  I control the amount of time to handle a request by randomly selecting a number within a given range. In my case the baseline range was 2 -- 10 time units.  I seeded my random number generator so I'm getting the same sequence of random numbers each time I run this.&lt;/p&gt;
+&lt;p&gt;With 4 &amp;quot;CPU's&amp;quot; and baseline times to handle each request:&lt;/p&gt;
+&lt;pre&gt;→ ~/D/C/C/python:git(prep)$ python graphBank.py
+Processed  120  customers.
+Average Time =  9.03333333333
+Average Wait Time =  3.06666666667
+Customers in Queue at end: 3&lt;/pre&gt;
+&lt;p&gt;If I increase the low end of the range to 3 and the top to 13 (roughly 30% on each end) I see this:&lt;/p&gt;
+&lt;pre&gt;→ ~/D/C/C/python:git(prep)$ python graphBank.py
+Processed  101  customers.
+Average Time =  28.3168316832
+Average Wait Time =  20.2772277228
+Customers in Queue at end: 22&lt;/pre&gt;
+&lt;p&gt;Wow, thats a lot more than I would naively expect.  I definitely need to go re-read a queuing theory chapter.  Keeping the range at 3 -- 13, but increasing the number of CPU's from 4 to 6 I get this:&lt;/p&gt;
+&lt;pre&gt;→ ~/D/C/C/python:git(prep)$ python graphBank.py
+Processed  120  customers.
+Average Time =  9.60833333333
+Average Wait Time =  1.59166666667
+Customers in Queue at end: 1&lt;/pre&gt;
+&lt;p&gt;I need to clean up the code before I'm willing to publish it here.  But if you are really interested contact me and I'll be happy to share it as is.&lt;/p&gt;
+</content><category term="Runestone"></category><category term="Python"></category><category term="Runestone"></category></entry><entry><title>Response Time Analysis of Runestone API’s Pre/Post Spectre “upgrade”: It was a Meltdown</title><link href="https://archive.reputablejournal.com/api-analysis.html" rel="alternate"></link><published>2018-02-19T00:00:00-06:00</published><updated>2018-02-19T00:00:00-06:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2018-02-19:/api-analysis.html</id><summary type="html">&lt;section id="the-problem"&gt;
+&lt;h2&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;Last tuesday my cloud infrastructure provider needed to reboot the
+physical &lt;a href="https://en.wikipedia.org/wiki/Hypervisor"&gt;HyperVisor&lt;/a&gt; where
+my virtual machine lives in order to upgrade the underlying operating
+system with fixes for the Spectre and Meltdown vulnerabilities. I was a
+bit worried as they said it would take 15 minutes but could …&lt;/p&gt;&lt;/section&gt;</summary><content type="html">&lt;section id="the-problem"&gt;
+&lt;h2&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;Last tuesday my cloud infrastructure provider needed to reboot the
+physical &lt;a href="https://en.wikipedia.org/wiki/Hypervisor"&gt;HyperVisor&lt;/a&gt; where
+my virtual machine lives in order to upgrade the underlying operating
+system with fixes for the Spectre and Meltdown vulnerabilities. I was a
+bit worried as they said it would take 15 minutes but could be up to an
+hour if things didn’t go well. I was also worried because I had read
+that it could be up to a 30% performance hit and I wasn’t sure how that
+would translate from underlying Hypervisor through to my VM to the
+performance of the Runestone web application.&lt;/p&gt;
+&lt;p&gt;True to their word, the upgrade took 15 minutes or maybe less. But it
+didn’t take too long before I started to get a few emails from
+instructors letting me know that they were trying to create new courses
+but the process didn’t seem to ever finish. Sure enough when I looked
+into it I could see a bunch of timeouts in the task scheduler and a
+bunch of half baked courses in the build folder. I also started to get a
+couple emails from colleagues using Runestone asking if something had
+changed because they were seeing really slow performance in the
+classroom and in the grading interface.&lt;/p&gt;
+&lt;p&gt;Finally on Thursday I decided to do some quantitative investigation
+before opening an issue with DigitalOcean. The uWSGI server has a nice
+log file that keeps track of every API request and how long that request
+takes to serve. I have script that aggregates the data from the log, so
+I looked at times from before the upgrade and times after the upgrade.
+Bad News! The average latency had increased by a factor of 5 across all
+of the different APIs!&lt;/p&gt;
+&lt;p&gt;Wanting to poke at this further, and never wanting to miss a chance to
+practice a bit with Pandas and some of the other Visualization tools I
+decided to make a little graph to demonstrate to the support team my
+predicament. Here is what I came up with.&lt;/p&gt;
+&lt;pre class="code ipython3"&gt;&lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="k"&gt;matplotlib&lt;/span&gt; inline
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;pandas&lt;/span&gt; &lt;span class="k"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;pd&lt;/span&gt;
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;numpy&lt;/span&gt; &lt;span class="k"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;np&lt;/span&gt;
+&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;altair&lt;/span&gt; &lt;span class="k"&gt;import&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt;
+&lt;span class="n"&gt;enable_mime_rendering&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;  &lt;span class="c1"&gt;# needed for plotting in jupyterlab with Altair&lt;/span&gt;
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;matplotlib&lt;/span&gt;
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;matplotlib.pyplot&lt;/span&gt; &lt;span class="k"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;plt&lt;/span&gt;
+&lt;span class="n"&gt;matplotlib&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;style&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;use&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'ggplot'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;/pre&gt;
+&lt;p&gt;First I wrote a second script to create a csv file of the raw uWSGI log,
+that just contained the timestamp of the request along with the name of
+the API call and the latency (in milliseconds). You can see the first
+few lines of that below&lt;/p&gt;
+&lt;pre class="code ipython3"&gt;&lt;span class="n"&gt;df&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;pd&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;read_csv&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;../Data/ajax.csv&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;parse_dates&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;'tstamp'&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt;&lt;span class="n"&gt;index_col&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;'tstamp'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;/pre&gt;
+&lt;pre class="code ipython3"&gt;&lt;span class="n"&gt;df&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;head&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;/pre&gt;
+&lt;div&gt;
+&lt;style scoped&gt;
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+&lt;/style&gt;
+&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;api&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;tstamp&lt;/th&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2018-02-12 01:05:41&lt;/th&gt;
+      &lt;td&gt;hsblog&lt;/td&gt;
+      &lt;td&gt;368&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2018-02-12 01:05:42&lt;/th&gt;
+      &lt;td&gt;hsblog&lt;/td&gt;
+      &lt;td&gt;414&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2018-02-12 01:05:42&lt;/th&gt;
+      &lt;td&gt;updatelastpage&lt;/td&gt;
+      &lt;td&gt;255&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2018-02-12 01:05:43&lt;/th&gt;
+      &lt;td&gt;getuser&lt;/td&gt;
+      &lt;td&gt;773&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2018-02-12 01:05:43&lt;/th&gt;
+      &lt;td&gt;getnumonline&lt;/td&gt;
+      &lt;td&gt;804&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;p&gt;Next I used the &lt;code&gt;resample&lt;/code&gt; method to compute the average response time
+for each 5 minute period and I plotted it in red below. If you look
+closely you can see there is a short gap between 13 and 14 and that
+corresponds to the timeframe when the system went down for its upgrade.
+The light blue shows the count of the number API calls during that same
+timeframe. It was a happy accident that the y-axis in both cases matched
+up in magnitude although the red line is in milliseconds and the blue
+line is just a count of calls.&lt;/p&gt;
+&lt;p&gt;Its the red line after the break that shows the huge performance hit!&lt;/p&gt;
+&lt;p&gt;What is going on? Even under the same or smaller load the spikes show
+that the majority of the API calls were taking around 1 second in the
+best case and up to 5.5 seconds in the worst. I passed this diagram on
+to the support team and they escalated it to engineering. They offered
+to migrate my virtual machine to a different physical Hypervisor to see
+if that would help to allevaite the problem. Otherwise there was not
+much else they could do except suggest that I resize my droplet to a
+larger virtual machine.&lt;/p&gt;
+&lt;pre class="code ipython3"&gt;&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;figure&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;figsize&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;span class="n"&gt;df&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;time&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;resample&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'5T'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;mean&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;plot&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Average API latency (5 min interval) With Count&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;df&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;api&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;resample&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'5T'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;count&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;plot&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mf"&gt;0.4&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mf"&gt;0.6&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mf"&gt;0.5&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;legend&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;savefig&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'avg_api_latency.png'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;/pre&gt;
+&lt;img class="m-image" src="/images/output_7_0.png" /&gt;
+&lt;/section&gt;
+&lt;section id="visualizing-with-altair"&gt;
+&lt;h2&gt;Visualizing with Altair&lt;/h2&gt;
+&lt;p&gt;One of my students reminded me of the Altair visualization package in
+class the other day so I had to give that a try for graphing as well. It
+takes a bit more work to get the data prepared, but the graphing syntax
+is really powerful. I can’t see an easy way to combine these together in
+Altair but I’ll keep working on it.&lt;/p&gt;
+&lt;pre class="code ipython3"&gt;&lt;span class="n"&gt;foo&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;df&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;time&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;resample&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'5T'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;mean&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;reset_index&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;/pre&gt;
+&lt;pre class="code ipython3"&gt;&lt;span class="n"&gt;foo&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;'sstamp'&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;foo&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;tstamp&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;astype&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;int&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="o"&gt;**&lt;/span&gt;&lt;span class="mi"&gt;9&lt;/span&gt;&lt;/pre&gt;
+&lt;pre class="code ipython3"&gt;&lt;span class="n"&gt;foo&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;'numcalls'&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;df&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;api&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;resample&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'5T'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;count&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;reset_index&lt;/span&gt;&lt;span class="p"&gt;()[&lt;/span&gt;&lt;span class="s1"&gt;'api'&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;/pre&gt;
+&lt;pre class="code ipython3"&gt;&lt;span class="n"&gt;Chart&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;foo&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;mark_line&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;encode&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;'sstamp:T'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+                              &lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;'numcalls:Q'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;configure_cell&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;width&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;800&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;/pre&gt;
+&lt;img class="m-image" src="/images/output_12_0.png" /&gt;
+&lt;pre class="code ipython3"&gt;&lt;span class="n"&gt;Chart&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;foo&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;mark_line&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;color&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;'red'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;encode&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;'sstamp:T'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+                              &lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;'time:Q'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;configure_cell&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;width&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;800&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;/pre&gt;
+&lt;img class="m-image" src="/images/output_13_0.png" /&gt;
+&lt;p&gt;So, what is really going on? I have two theories.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The easy way out is to blame DigitalOcean and/or whatever they did as
+a really bad fix for the vulnerabilities. I’d like to just do that
+and leave it there. But I can’t prove it one way or the other.&lt;/li&gt;
+&lt;li&gt;The second explanation is a lot more complicated. First, I &lt;em&gt;think&lt;/em&gt; I
+was close to the edge in terms of the sizing of my Droplet. I had
+four vCPUs on my machine and I could see that during peak times all
+four cpus were working to keep up. And they were, but just barely.
+Now if you slow those cpus down by 30% its quite possible that they
+were no longer able to keep up with the demand during that same peak.
+This caused the queue of tasks for the cpu to start to get longer and
+longer and therefore the time to complete an API task really grew.
+Review your queueing theory and you’ll see that this is exactly what
+can happen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+&lt;section id="the-solution-for-now"&gt;
+&lt;h2&gt;The Solution – for now&lt;/h2&gt;
+&lt;p&gt;Last night I decided to take everything into my own hands and upgrade my
+droplet to six vCPUs by giving myself half again as much CPU power I
+should stay below the point where I get the crazy performance. I’d
+rather not do this as it doubles my hosting costs, but the upgrade is
+easily reversable if the performance continues to be really bad. I
+thought the resize would be nearly instantaneous as it just needed to
+reprovision me with two additional vCPUs and double my memory footprint
+all on the same Hypervisor. However… The reprovisioning took nearly 30
+minutes. Long enough that I’m convinced that the upgrade caused me to
+also migrate to a new Hypervisor! I definitely don’t know enough about
+how all of this virtual machine provisioning works so I’m just guessing
+but I think that must be the case.&lt;/p&gt;
+&lt;p&gt;However, I’m happy at the moment as the API averages (under very low
+load) are actually BELOW what they were on my old machine pre-meltdown
+fix. Which is another reason I think I’m on different underlying
+hardware. What I don’t know is if I back off my resize and go back to 4
+vCPUs will I stay on the same physical hardware or do I risk getting
+moved back into the slow situation? I’m not eager to do too much
+experimenting back and forth as I’m not keen on having downtime for no
+reason. In the meantime today is a holiday so the load is not very high
+and I’ll have to wait until tomorrow to see how it all holds up under a
+heavier load.&lt;/p&gt;
+&lt;p&gt;I’ll plan to update this post in a week to show how performance holds up
+to increased load in the next few days.&lt;/p&gt;
+&lt;/section&gt;
+</content><category term="Runestone"></category><category term="Python"></category><category term="Runestone"></category></entry><entry><title>The Runestone Workshop</title><link href="https://archive.reputablejournal.com/runestone-workshop.html" rel="alternate"></link><published>2017-03-11T00:00:00-06:00</published><updated>2017-03-11T00:00:00-06:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2017-03-11:/runestone-workshop.html</id><summary type="html">&lt;p&gt;Special Interest Group on Computer Science Education (SIGCSE) 2017 is done. Another great few days of meeting colleagues from around the country and talking about computer science education.  This year was a little different because Paul Resnick, Barb Ericson, and I conducted a workshop on teaching with the runestone eBooks …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Special Interest Group on Computer Science Education (SIGCSE) 2017 is done. Another great few days of meeting colleagues from around the country and talking about computer science education.  This year was a little different because Paul Resnick, Barb Ericson, and I conducted a workshop on teaching with the runestone eBooks.  We had a nice group of educators who mostly had no experience using eBooks before but were enthusiastic participants.&lt;/p&gt;
+&lt;p&gt;In addition to getting to introduce Runestone to a bunch of new people the benefit of the workshop was that it also allowed us to &amp;quot;eat our own dogfood&amp;quot; and write a short book introducing Runestone.  Introducing Runestone with Runestone!   This is a great start on what should be a very nice resource for new instructors.&lt;/p&gt;
+&lt;p&gt;For now, I'm going to link to it as we presented it at the workshop, but it will definitely change over time as we make it more general.&lt;/p&gt;
+&lt;p&gt;Have a look &lt;a href="http://interactivepython.org/runestone/static/sigcse2017/index.html"&gt;Runestone Users Guide&lt;/a&gt;&lt;/p&gt;
+</content><category term="Runestone"></category><category term="Development"></category><category term="Runestone"></category></entry><entry><title>Runestone Summer Review Part I</title><link href="https://archive.reputablejournal.com/runestone-summer-review-part-i.html" rel="alternate"></link><published>2016-09-19T00:00:00-05:00</published><updated>2016-09-19T00:00:00-05:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2016-09-19:/runestone-summer-review-part-i.html</id><summary type="html">&lt;p&gt;With just about 10 days until classes start, my focus must switch to prep, teaching, and the inevitable committee and faculty meetings.  But I wanted to take some time to document a few highlights of the summer.  One of the biggest highlights is a redesigned instructor interface for Runestone, that …&lt;/p&gt;</summary><content type="html">&lt;p&gt;With just about 10 days until classes start, my focus must switch to prep, teaching, and the inevitable committee and faculty meetings.  But I wanted to take some time to document a few highlights of the summer.  One of the biggest highlights is a redesigned instructor interface for Runestone, that is so big that I'm going to save that one for Part II.  In the meantime it is in beta and I encourage you to take a look.&lt;/p&gt;
+&lt;p&gt;If you are new to the Runestone Interactive project you might want to watch this podcast I did with my colleague Philip Guo at UC San Diego.  &lt;a href="http://pgbovine.net/PG-Podcast-11-Brad-Miller.htm"&gt;PG Podcast - Episode 11&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;New Books in Runestone by people I didn't know&lt;/h2&gt;
+&lt;p&gt;Ok, it is happening!  Other people outside of a very small circle are starting to write new chapters for &lt;em&gt;How to Think&lt;/em&gt; and even their own books using the Runestone components!  This is what I had hoped for all along, and it is starting to happen.  All of the authors would say that these are "works in progress"  and I think that is a sign of whats good about the interactive textbook approach.  You can write a book as you are teaching the course.
+Here are some examples:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="http://learnwebgl.brown37.net/"&gt;Learn WebGL&lt;/a&gt; Dr. C Wayne Brown of the Air Force Academy has published this very cool book on learning computer graphics with WebGL.  We talked one day about some contributions he had for improving the How to think book and told me about this!  Wow!&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://yardsale8.github.io/stat110_book/"&gt;Transforming Data with ClojureScript&lt;/a&gt;  Yeah, you read that right, not only did J. David Eisenberg of Evergreen Valley College write this book, but also integrated ClojureScript as a new language into the Runestone Components.  He also wrote this cool &lt;a href="http://evc-cit.info/comsc020/python-regex-tutorial/"&gt;Regular Expressions in Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://yardsale8.github.io/stat110_book/"&gt;Intro to stats&lt;/a&gt;  This one, by Dr. Todd Iverson of St. Mary's University is not even a computer science book, its a statistics textbook.  I'm really looking forward to seeing how this progresses as I think it will give us lots of ideas for new components.&lt;/li&gt;
+&lt;li&gt;There are also a few other instructors out there who are writing their own custom chapters for their books.  They are using them in their own classes and are not quite ready to share them with the world yet.  If you fall into that camp yourself, read on...&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The full library of books (that I know about) written using the Runestone Tools is &lt;a href="http://runestoneinteractive.org/library.html"&gt;In our Library&lt;/a&gt;   &lt;/p&gt;
+&lt;p&gt;If you have written something, please let me know!&lt;/p&gt;
+&lt;h2&gt;Jenkins Integration&lt;/h2&gt;
+&lt;p&gt;With more people writing more books that we want to make available on Runestone.  Not to mention the instructors who are testing new modules in their own courses, I set up a Jenkins CI server.  If you have a project like this that you would like to publish on Runestone let me know.  As long as you have your content set up as a Runestone project on a github repository, I can set up a task on Jenkins to monitor your repository and automatically rebuild and deploy your book whenever you push a change to github.&lt;/p&gt;
+&lt;p&gt;I'm excited about what I've learned here, and I'm hoping to use what I've learned to make the book building and hosting process better going forward.&lt;/p&gt;
+&lt;h2&gt;Numbered Sections&lt;/h2&gt;
+&lt;p&gt;Well this may seem trivial, but it took a few years before it dawned on me how to make it happen. It is also a feature that many people have asked for for a long time! I won't go into the gory details here but you can see it on github in the source or &lt;a href="https://github.com/RunestoneInteractive/RunestoneComponents/issues/238"&gt;read this summary&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Unit Tests&lt;/h2&gt;
+&lt;p&gt;It is really easy now to add unit testing to problems in the textbook.  These unit test allow your students to try their solutions and get immediate feedback based on test cases you have created.  I really like this, as I think it is quite motivating for the students as well.  We added a bunch of these to the thinkcspy book early in the summer, and I'm going to be doing the same as I teach my data structures course this fall.&lt;/p&gt;
+&lt;h2&gt;More to Come&lt;/h2&gt;
+&lt;p&gt;One sign of a good project is that the todo list never gets shorter.  Every time I cross two things off the list six more pop up.  I'm really excited about a bunch of things, especially polishing up the new instructor interface and a brand new directive that we are working on to help students better &lt;a href="http://inventwithpython.com/showeval/"&gt;visualize Python's evaluation process&lt;/a&gt;&lt;/p&gt;</content><category term="Runestone"></category><category term="Python"></category><category term="Runestone"></category></entry><entry><title>What is Runestone Interactive</title><link href="https://archive.reputablejournal.com/what-is-runestone-interactive.html" rel="alternate"></link><published>2016-07-07T08:36:26-05:00</published><updated>2016-07-07T08:36:26-05:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2016-07-07:/what-is-runestone-interactive.html</id><summary type="html">&lt;p&gt;Runestone Interactive started out as a moment of clarity, with a vision of how I wanted to write textbooks.  Over the last five years it has evolved and changed in unexpected ways.  Even amongst people who care about this project a lot it was hard to pin down a way …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Runestone Interactive started out as a moment of clarity, with a vision of how I wanted to write textbooks.  Over the last five years it has evolved and changed in unexpected ways.  Even amongst people who care about this project a lot it was hard to pin down a way to communicate exactly what Runestone Interactive has become.  So I want to use this post to try to nail it down.&lt;/p&gt;
+&lt;h2&gt;Online, Open Source Interactive Textbooks&lt;/h2&gt;
+&lt;p&gt;Most people know Runestone because of our textbooks.   What started out as &lt;em&gt;How to Think Like a Computer Scientist: Interactive Edition&lt;/em&gt; has grown to include &lt;em&gt;Problem Solving with Algorithms and Data Structures using Python&lt;/em&gt;, &lt;em&gt;Programs, Information, and People&lt;/em&gt;, The &lt;em&gt;AP CS A  Review in Java&lt;/em&gt;, &lt;em&gt;Big Ideas in Computer Science&lt;/em&gt; and more.  The fact that they continue to be served from interactivepython.org is (as Douglas Adams would say) "increasingly inaccurate."   As of this writing over 500 high schools and colleges have adopted one or more of these textbooks In their curricula.&lt;/p&gt;
+&lt;p&gt;When an instructor decides to adopt a Runestone book for use in their course they can do so in two ways.   They may choose to give their students a link to one of the "open books" or they may choose to build a "custom course."  The open books are simply versions of each textbook that do not require a login.  The open books are mostly meant for individual learners that want to work through a book on their own time at their own pace.  When an instructor chooses to build a custom course they get a copy of the book at a unique URL just for their class.  There are a number of benefits to creating a custom course:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The teacher can decide when or if to incorporate changes from the master copy of the textbook.&lt;/li&gt;
+&lt;li&gt;The teacher can customize the book by reordering chapters or even removing chapters from the book.&lt;/li&gt;
+&lt;li&gt;The teacher can create and publish assignments for their students&lt;/li&gt;
+&lt;li&gt;The teacher can grade assignments and provide feedback for their students&lt;/li&gt;
+&lt;li&gt;The teacher can observe the progress of the class or review the activities of an individual student.  Knowing what your students really do is a great help in preparing for class.&lt;/li&gt;
+&lt;li&gt;Soon, Runestone will integrate with popular learning management systems such as Moodle, Sakai, and Canvas.  Both sides have a ways to go before the integration is seamless, and both sides are working on it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We never set out to make a course management system (lite) but there are just so many advantages to having all the data collection capabilities of an interactive textbook that we feel some course management features are important.&lt;/p&gt;
+&lt;h2&gt;Authoring Tools&lt;/h2&gt;
+&lt;p&gt;What we did set out to make initially is a great set of interactive book authoring tools.  Our Big Hairy Audacious Goal was (and still is) to become the LaTeX of the interactive textbook publishing world.  In the beginning writing an interactive textbook was equal parts writing and coding.  Runestone aims to remove the coding part so you can just focus on the writing.&lt;/p&gt;
+&lt;p&gt;To accomplish this we have created a set of HTML components for things like multiple choice questions, interactive code, code visualizations and many more.  If you don't have a sense for what kinds of things you can do with Runestone Interactive you should take a look at &lt;a href="http://interactivepython.org/runestone/static/overview.html"&gt;The Overview&lt;/a&gt;.  When the page is loaded simple the HTML components are rendered by a bunch of JavaScript and CSS to create the Runestone Components you see in the interactive books.&lt;/p&gt;
+&lt;p&gt;But nobody wants to write books in HTML!  So, we created a set of extensions for a simple markup language called &lt;a href="http://docutils.sourceforge.net/docs/user/rst/quickref.html"&gt;restructuredText&lt;/a&gt;.  The restructuredText markup language lets you do all of the things you would expect to do in a language for writing, make lists, include images, footnotes, etc. etc.  In addition our extensions make it really easy to add   interactive components to your document.  For example to make an activecode component with runnable, editable code you would simply write the following in your text:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;..&lt;/span&gt; &lt;span class="ow"&gt;activecode&lt;/span&gt;&lt;span class="p"&gt;::&lt;/span&gt; codeid
+   &lt;span class="nc"&gt;:language:&lt;/span&gt; &lt;span class="nf"&gt;python&lt;/span&gt;
+
+   print(&amp;quot;hello world!&amp;quot;)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The restructured text would be compiled into the html component:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;textarea&lt;/span&gt; &lt;span class="na"&gt;data-component=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;activecode&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;data-language=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;python&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+print(&amp;quot;hello world&amp;quot;)
+&lt;span class="nt"&gt;&amp;lt;/textarea&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;In the interactive textbook, after the Javascript and CSS do their magic  it looks like this:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="/images/activecode.png"&gt;&lt;/p&gt;
+&lt;p&gt;This three step process may seem complicated but it provides a lot of flexibility.  If you prefer  &lt;a href="http://zverovich.net/2016/06/16/rst-vs-markdown.html"&gt;markdown&lt;/a&gt; over restructuredText you can still write an interactive book by just dropping in the html into your markdown document.  If you prefer another language like mediaWiki or something that supports its own macros, you can even write your own macros for that language that compile to the HTML.&lt;/p&gt;
+&lt;p&gt;The best thing is, you don't have to write an entire book to take advantage of the interactive tools.  You can use Runestone to make lecture demonstrations, or set up labs or short tutorials for your students.  If you do that you can even host them on your own computer very easily.&lt;/p&gt;
+&lt;p&gt;Full documentation for all of the Runestone Components can be found at &lt;a href="http://runestoneinteractive.org/build/html/instructor.html"&gt;The Runestone Home&lt;/a&gt;   If you have a suggestion for a new interactive component, or would like to help with the development and documentation of the Runestone Components please visit our page on &lt;a href="https://github.com/RunestoneInteractive/RunestoneComponents"&gt;github&lt;/a&gt;. If you would like to help out with any of the books they are all freely available &lt;a href="https://github.com/RunestoneInteractive"&gt;on github&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;The Runestone Server&lt;/h2&gt;
+&lt;p&gt;The last piece of the Runestone puzzle is the Runestone Server.  Most people can probably live a long and happy life without having to even think about the Runestone server.  It is the thing that provides web services to all of the Runestone Components and drives the instructor tools.  The server started out life as a necessity for me to use Runestone in my own classroom.  It has grown into a "textbook as a service" size server today, supporting over 13,000 students a day from all over the world.&lt;/p&gt;
+&lt;p&gt;However there are a handful of others out there who for whatever reason: privacy concerns, scalability concerns, or just more control, want to run their own server.  This is good as it makes the server better and provides a small base of others who can help add features and fix bugs.&lt;/p&gt;
+&lt;p&gt;The Runestone Server is built on top of the &lt;a href="http://web2py.com"&gt;web2py&lt;/a&gt; application framework.  I know, you've never heard of web2py, why would I do such a thing?  In 2011 it seemed like the right choice.  If I were starting again today it would definitely be a &lt;a href="http://www.pocoo.org/flask"&gt;Flask&lt;/a&gt; application.  I still hope to port everything to Flask one day.  But when I think about the opportunity cost of taking an entire summer to port the code versus using the summer to add new features to what is there, I lean heavily towards the new thing.  Eventually all of the bad decisions and shortcuts I've taken over the years will force me to do a rewrite.&lt;/p&gt;
+&lt;p&gt;If you're still with me, and are interested in helping out with server check out our &lt;a href="https://github.com/RunestoneInteractive/RunestoneServer"&gt;github&lt;/a&gt; page, in particular have a look at the CONTRIBUTING document.&lt;/p&gt;</content><category term="Runestone"></category><category term="Runestone"></category></entry><entry><title>Runestone the Gathering</title><link href="https://archive.reputablejournal.com/runestone-the-gathering.html" rel="alternate"></link><published>2016-06-10T00:00:00-05:00</published><updated>2016-06-10T00:00:00-05:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2016-06-10:/runestone-the-gathering.html</id><summary type="html">&lt;p&gt;Back in March I had the following conversation with my friend Paul Resnick.  “Should we organize a hack-week for runestone?” Paul asked.  “Uhmmm sure,” I said wondering to myself who would come?  Not that I lacked enthusiasm for the idea, after all what could be better than a week of …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Back in March I had the following conversation with my friend Paul Resnick.  “Should we organize a hack-week for runestone?” Paul asked.  “Uhmmm sure,” I said wondering to myself who would come?  Not that I lacked enthusiasm for the idea, after all what could be better than a week of hacking on Runestone even if it was just Paul and I?  It would be even better if you had 14 people show up and you spent 5 days immersed in design, planning, strategizing, writing up articles, and oh yeah, coding, or in my case accepting pull requests from others!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="images/RunestonePeople.jpg" title="Runestone Group"&gt;
+Pictured: &lt;em&gt;Kesiena Owho-Ovuakporie, Jeff Rick, Chuck Severance, Jackie Cohen, Mark Guzdial, Brad Miller, Paul Resnick, Barbara Ericson, Devin Hanggi, Lauren Murphy, Kyle Miller&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;So, here is a quick report on the first (annual?) Runestone The Gathering, held on the campus of the University of Michigan’s  School of Information.  It was a great way to kick off the summer research program for myself and two students Devin and Kyle.&lt;/p&gt;
+&lt;h2&gt;User Facing Changes&lt;/h2&gt;
+&lt;p&gt;For all of the instructors that have been waiting for a better way to manage two or more courses, and the students who have enrolled in two or more courses we now have a way for you to manage your courses!  It’s done, PR accepted and will be live in the next week or so.&lt;/p&gt;
+&lt;p&gt;We have completely redesigned the rest of the instructor's interface as well.  It will soon be possible to add additional instructors/TAs to your course, create and publish assignments, add activities to a database of shared activites, and more.  On top of that we have a new unified grading interface that I think is much more intuitive and will work for grading activecode as well as multiple choice, fill-in-the-blank, parsons, and other kinds of activities. Whether you use the assignment building interface or not, you will have one place to grade.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="/images/newgrading.png" title="New Grading interface"&gt;&lt;/p&gt;
+&lt;p&gt;In addition we spent some time adding automated test cases (unittests) for a whole bunch of the programming exercises at the end of each chapter of the thinkcspy book.  Now students can work on the code, run it, and see whether it is meeting expectations immediately.  Parson's problems have also been hugely improved in preparation for one of Barb's PhD research projects.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="/images/unittest.png" title="Unit Testing"&gt;&lt;/p&gt;
+&lt;h2&gt;For Developers and Authors&lt;/h2&gt;
+&lt;p&gt;We spent a lot of time talking about how we communicate to our teachers, students, and fellow developers.  Its not easy, things evolve over time, and sometimes something seems obvious to me or someone else close to the project that is not so obvious to someone new.  So we are reorganizing our documentation and trying to make it easier to find the information you need.  One important distinction to make clear right away is the difference between runestoneinteractive.org and interactivepython.org.  It is clear that interactivepython.org is an increasingly inaccurate name for a site that hosts interactive books for Python, Java, Javascript, and HTML.  It will take a while to migrate domain names, but interactivepython.org will be mostly a site for hosting books.  All other stuff will live on the project website runestoneinteractive.org.  &lt;/p&gt;
+&lt;p&gt;Speaking of authors and developers, we need help with tasks requiring almost every skill level.  If you can help us write documentation, fix simple bugs or if you would like to jump in and help implement some new runestone components, we would welcome your help.&lt;/p&gt;
+&lt;h2&gt;For the Future&lt;/h2&gt;
+&lt;p&gt;The future here looks bright!&lt;/p&gt;
+&lt;p&gt;We spent a good amount of time talking about how to fund Runestone into the future.  The use of runestone has grown from 30 students in one section at Luther college to over 13,000 students each day from over 500 institutions around the world.  Donations, at the rate we get them today are not going to be enough to sustain us.  In the next year we’ll be writing grants and looking for funding to expand our ability to offer training and to scale our servers from several sources.&lt;/p&gt;
+&lt;p&gt;We talked a bit about the future of writing in the runestone system.  Apparently restructuredText is not everyone's favorite markup language.  But there are alternatives, such as using the raw web components in markdown or in a wiki language, and this seems to be a good direction for further development.  Our goal is to make it possible to use the components in many different forms of writing in whatever organization makes sense.&lt;/p&gt;
+&lt;p&gt;We also spent time with Dr. Chuck investigating how to make Runestone interact with learning management systems (LMS).  The LTI standard doesn't let us do everything we would like now, for all LMSs, but it is a growing and maturing standard and seems worth our efforts to do what we can to make it easy to exchange, both grades and assignments with systems like Sakai, Moodle, and Canvas.&lt;/p&gt;
+&lt;h2&gt;Fun and Community Building&lt;/h2&gt;
+&lt;p&gt;We also spent some time having fun, including kayaking on the Huron River, a singalong, with Ukulele, guitar, and fiddle, and some great eats.  Indian, Italian, Korean Barbecue, and Ethiopian.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="/images/runestonemusic.jpg" title="Music"&gt;&lt;/p&gt;
+&lt;p&gt;The picture above shows Brad Miller (Luther College) on guitar, Paul Resnick (University of Michigan) on fiddle, and Mark Guzdial (Georgia Tech) on ukulele.  In all we had people in attendance from four universities around the country.  The week was a great opportunity to get to know  others interested in working on Runestone.  We’ll do it again next year; maybe bigger, maybe better, but there's only one first.  Thanks to all who participated this year!&lt;/p&gt;</content><category term="Runestone"></category><category term="Python"></category><category term="Runestone"></category></entry><entry><title>Organizing your Runestone Course</title><link href="https://archive.reputablejournal.com/Organizing-your-Runestone-Course.html" rel="alternate"></link><published>2015-08-14T00:00:00-05:00</published><updated>2015-08-14T00:00:00-05:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2015-08-14:/Organizing-your-Runestone-Course.html</id><summary type="html">&lt;p&gt;With the latest release of the Runestone Tools for this Fall I added a feature that will allow you to edit the table of contents file for your course.  This lets you do two really nice things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You can move chapters around and/or remove sections that you are not …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;With the latest release of the Runestone Tools for this Fall I added a feature that will allow you to edit the table of contents file for your course.  This lets you do two really nice things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You can move chapters around and/or remove sections that you are not going to cover.&lt;/li&gt;
+&lt;li&gt;You can provide a Syllabus and assignment notices right on the index page for your course.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To do this you need to click on one of the two links provided in the instructors dashboard.  Your two options are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Customize Chapter Order (thinkcspy only) If you have a course created before July 21 2015 and want this feature contact me.&lt;/li&gt;
+&lt;li&gt;Customize Title Page and Order (all others)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The first link is for any course based on How to Think Like a Computer Scientist. This book has its own link because the initial page of that book has the swirly turtle program on it, and the table of contents is in a different file.&lt;/p&gt;
+&lt;p&gt;The second option is for all other books which have their table of contents in the usual &lt;cite&gt;index&lt;/cite&gt; file.   If you are using the How to Think book this link will let you edit the page that has the swirly turtle program on it.&lt;/p&gt;
+&lt;p&gt;Clicking on either of these links will bring you to a little text editing window where you can edit the restructuredText for the appropriate page.  Yeah, this is a little like coding, there is no WYSWIG version of this, just a nice simple markup language.   So, to add a Syllabus or a Weekly assignments section to this page you can add something like this:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="gh"&gt;---------------------&lt;/span&gt;
+&lt;span class="gh"&gt;Readings and Homework&lt;/span&gt;
+&lt;span class="gh"&gt;---------------------&lt;/span&gt;
+
+&lt;span class="gh"&gt;Week of Sept 3&lt;/span&gt;
+&lt;span class="gh"&gt;~~~~~~~~~~~~~~&lt;/span&gt;
+
+&lt;span class="m"&gt;*&lt;/span&gt; &lt;span class="gs"&gt;**Friday:**&lt;/span&gt;  &lt;span class="na"&gt;:doc:&lt;/span&gt;&lt;span class="nv"&gt;`WWW/intro`&lt;/span&gt;, &lt;span class="s"&gt;`exercise 1 &lt;/span&gt;&lt;span class="si"&gt;&amp;lt;HTML/exercises.html#ex_html_1&amp;gt;&lt;/span&gt;&lt;span class="s"&gt;`_&lt;/span&gt;  and 2
+&lt;span class="m"&gt;*&lt;/span&gt; &lt;span class="gs"&gt;**Saturday:**&lt;/span&gt; sleep in
+
+&lt;span class="gh"&gt;Week of Sept 8&lt;/span&gt;
+&lt;span class="gh"&gt;~~~~~~~~~~~~~~&lt;/span&gt;
+
+&lt;span class="m"&gt;*&lt;/span&gt; &lt;span class="gs"&gt;**Monday:**&lt;/span&gt; Read &lt;span class="na"&gt;:doc:&lt;/span&gt;&lt;span class="nv"&gt;`HTML/intro`&lt;/span&gt; and &lt;span class="na"&gt;:doc:&lt;/span&gt;&lt;span class="nv"&gt;`HTML/basic`&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;If you are completely unfamiliar with markup languages like Markdown and restructuredText you may want to check out this &lt;a href="http://sphinx-doc.org/rest.html"&gt;restructuredText Primer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There are a couple of nice things to point out.  The &lt;cite&gt;:doc:`foo/bar`&lt;/cite&gt; syntax allows you to create a link directly to the page you want your students to read.  Its pretty friendly because all you have to do is look at the table of contents (in the file you are editing) and copy/paste what you want them to read.  Note that you do need to remove the &lt;cite&gt;.rst&lt;/cite&gt; suffix.&lt;/p&gt;
+&lt;p&gt;You can also link directly to any exercise in the book using the following syntax:  &lt;cite&gt;`Some Title &amp;lt;Chapter/exercises.html#id_of_exercise&amp;gt; `&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;You will find id of each exercise in parenthesis in the caption of each exercise at the end of the chapter.  In fact this will work for any &lt;em&gt;activecode&lt;/em&gt; in the book not just in the exercises sections.&lt;/p&gt;
+&lt;p&gt;If you don't want the assignments to clutter up your table of contents page you can modify the above example to something like this:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;..&lt;/span&gt; &lt;span class="ow"&gt;reveal&lt;/span&gt;&lt;span class="p"&gt;::&lt;/span&gt; syllabusreveal
+   &lt;span class="nc"&gt;:showtitle:&lt;/span&gt; &lt;span class="nf"&gt;Show Syllabus&lt;/span&gt;
+
+   &lt;span class="m"&gt;*&lt;/span&gt; Week of Sept 3
+
+     &lt;span class="m"&gt;*&lt;/span&gt; &lt;span class="gs"&gt;**Friday:**&lt;/span&gt;  &lt;span class="na"&gt;:doc:&lt;/span&gt;&lt;span class="nv"&gt;`WWW/intro`&lt;/span&gt;, &lt;span class="s"&gt;`exercise 1 &lt;/span&gt;&lt;span class="si"&gt;&amp;lt;HTML/exercises.html#ex_html_1&amp;gt;&lt;/span&gt;&lt;span class="s"&gt;`_&lt;/span&gt;  and 2
+     &lt;span class="m"&gt;*&lt;/span&gt; &lt;span class="gs"&gt;**Saturday**&lt;/span&gt; Sleep in
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This will hide the syllabus until they click on the button.&lt;/p&gt;
+&lt;p&gt;If you want to add your own custom problems you can do that by clicking on the &amp;quot;Edit my Assignments&amp;quot; link.   I'm seriously considering renaming that link to Edit my Homework Problems.  The identifiers that you give your exercises in that document can be linked to just like the exercises anywhere else in the book.&lt;/p&gt;
+&lt;p&gt;Don't forget that once you have edited any of these files you need to click on the rebuild link to get a new version of the book posted on line.&lt;/p&gt;
+&lt;p&gt;Any Questions?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With an hour or so of hacking I have fixed the runestone directives so that you can now reference an active code much more simply.  the above example can now be&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Do &lt;span class="na"&gt;:ref:&lt;/span&gt;&lt;span class="nv"&gt;`Exercise 1 &amp;lt;ex_html_1&amp;gt;`&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;All of the identifiers you use, and can see in the captions can now be cross referenced by providing a label, and then using  the identifier of the activecode inside the &amp;lt; and &amp;gt;.&lt;/p&gt;
+</content><category term="Runestone"></category><category term="Python"></category><category term="Runestone"></category></entry><entry><title>Talk Python to me</title><link href="https://archive.reputablejournal.com/Talk-Python-to-me.html" rel="alternate"></link><published>2015-08-12T00:00:00-05:00</published><updated>2015-08-12T00:00:00-05:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2015-08-12:/Talk-Python-to-me.html</id><summary type="html">&lt;p&gt;This interview with Michael Kennedy was really fun to record, and a nice overview of some of the work I have been doing over the past few years.  The podcast is well worth subscribing and listening to as he talks to a lot of interesting people about good Python packages …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This interview with Michael Kennedy was really fun to record, and a nice overview of some of the work I have been doing over the past few years.  The podcast is well worth subscribing and listening to as he talks to a lot of interesting people about good Python packages, and other interesting topics around the Python ecosystem.&lt;/p&gt;
+&lt;div class="talk-python-embedded-player"
+     data-episode-id="20"
+     data-show-title="Interactive Python and Teaching Python: Beyond Text Books"
+     data-guest="Brad Miller"&gt;&lt;/div&gt;
+&lt;script src="http://talkpython.fm/static/js/embed/player.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="Runestone"></category><category term="Python"></category></entry><entry><title>Towards Web Components for Runestone</title><link href="https://archive.reputablejournal.com/Towards-Web-Components-for-Runestone.html" rel="alternate"></link><published>2015-03-23T00:00:00-05:00</published><updated>2015-03-23T00:00:00-05:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2015-03-23:/Towards-Web-Components-for-Runestone.html</id><summary type="html">&lt;p&gt;One of the nice things about being in Malta for the spring is that I've been able to step back and think about &lt;a href="http://runestoneinteractive.org"&gt;Runestone Interactive&lt;/a&gt; and some of the ways it can be improved and moved forward.  One of the things that I think holds the overall goals of the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;One of the nice things about being in Malta for the spring is that I've been able to step back and think about &lt;a href="http://runestoneinteractive.org"&gt;Runestone Interactive&lt;/a&gt; and some of the ways it can be improved and moved forward.  One of the things that I think holds the overall goals of the project back somewhat is the initial choice of restructuredText as the main authoring language.  It was a good technical choice, but it is not nearly as popular as some other alternatives.&lt;/p&gt;
+&lt;p&gt;Recent developments in the world of web development have lead me to believe that a new approach would make a lot of sense.&lt;/p&gt;
+&lt;p&gt;So I’ve been messing around with &lt;a href="https://github.com/bnmnetp/newactivecode"&gt;this new idea&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The idea is to create a standard intermediate html format that sits between the &lt;a href="http://docutils.sourceforge.net/docs/"&gt;restructuredText&lt;/a&gt; of &lt;a href="http://sphinx.pocoo.org"&gt;Sphinx&lt;/a&gt; and what gets rendered in the browser.  All of the hard work is done by javascript that takes the html and turns it into one of the Runestone components.&lt;/p&gt;
+&lt;p&gt;Why do this you may ask?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Well, for one reason, the code for the directives is getting increasingly unwieldy and very difficult to maintain.  Too many cooks, too little standardization.  Some of it is a real mess.  My javascript skills are much better than when I wrote the first implementation of activecode.&lt;/li&gt;
+&lt;li&gt;But more importantly this has the benefit of making runestone available to virtually anyone you would not need to write in RST at all, you could write in plain html if you wanted to.  Or any other markup language that let you insert html.  Or if you were a clever hacker you could write your own macros for whatever system you use that generates the html.&lt;/li&gt;
+&lt;li&gt;Finally I think this is a move in the direction that the web is headed over the next few years which is custom tags.  Imagine if we could just have an &lt;code&gt;&amp;lt;activecode&amp;gt;&lt;/code&gt; tag?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, rather than learning restructuredText and installing Sphinx you could include a few javascript files in your page and then write html that looked like this:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;body&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;pre&lt;/span&gt; &lt;span class="na"&gt;data-component&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;activecode&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;data-lang&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;python&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;id&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;test1&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+def foo():
+    print &amp;#39;hello world&amp;#39;
+
+foo()
+&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;pre&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+
+&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;pre&lt;/span&gt; &lt;span class="na"&gt;data-component&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;activecode&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;data-lang&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;python&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;id&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;test2&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;data-include&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;test1 test2&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+def main():
+    print &amp;#39;goodbye girl&amp;#39;
+
+main()
+====
+print &amp;quot;This is hidden suffix code you don&amp;#39;t see it in the editor&amp;quot;
+&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;pre&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+
+&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;body&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;and get a page that looked like this:&lt;/p&gt;
+&lt;img class="m-image" src="https://www.dropbox.com/s/fqvakeftnfa75gp/Screenshot%202015-03-23%2018.45.58.png?raw=1" /&gt;
+&lt;p&gt;Anyway, I am looking at this as an excuse to learn about &lt;a href="https://www.polymer-project.org/"&gt;Polymer&lt;/a&gt;, &lt;a href="http://www.angularjs.org"&gt;AngularJS&lt;/a&gt; and &lt;a href="http://stackoverflow.com/questions/7087331/what-is-the-meaning-of-polyfills-in-html5"&gt;Polyfills&lt;/a&gt; and &lt;a href="http://webcomponents.org"&gt;web components&lt;/a&gt; in general.  The repo I linked to above has got activecode working very nicely, and I like this implementation.  It is Much cleaner.  There is no reliance on creating special xxx_code, xxx_edit, xxx_output id values for different div elements, no need to mix and match a bunch of template code in the directive implementation.  Take a look and let me know what you think.&lt;/p&gt;
+&lt;p&gt;I would be especially happy to have you look at the code on github and send me any comments about the current implementation, or pointers on how to convert that into a web component.  Someday there will be an &lt;code&gt;&amp;lt;activecode&amp;gt;&lt;/code&gt; tag.&lt;/p&gt;
+</content><category term="Runestone"></category><category term="Javscript"></category><category term="Hacking"></category><category term="Development"></category><category term="Runestone"></category></entry><entry><title>Runestone: a look ahead to 2015</title><link href="https://archive.reputablejournal.com/runestone2015.html" rel="alternate"></link><published>2014-12-27T18:17:18+00:00</published><updated>2014-12-27T18:17:18+00:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2014-12-27:/runestone2015.html</id><summary type="html">&lt;section id="the-year-in-review-or-the-state-of-the-stone"&gt;
+&lt;h2&gt;The Year in Review or &amp;quot;The state of the 'stone&amp;quot;&lt;/h2&gt;
+&lt;p&gt;It has been an exciting year for the Runestone Interactive project.  Our Fall 2014 daily use has more than doubled that of Fall 2013, as we are serving nearly 8000 unique visitors a day on average on the &lt;a href="http://interactivepython.org"&gt;interactivepython.org …&lt;/a&gt;&lt;/p&gt;&lt;/section&gt;</summary><content type="html">&lt;section id="the-year-in-review-or-the-state-of-the-stone"&gt;
+&lt;h2&gt;The Year in Review or &amp;quot;The state of the 'stone&amp;quot;&lt;/h2&gt;
+&lt;p&gt;It has been an exciting year for the Runestone Interactive project.  Our Fall 2014 daily use has more than doubled that of Fall 2013, as we are serving nearly 8000 unique visitors a day on average on the &lt;a href="http://interactivepython.org"&gt;interactivepython.org&lt;/a&gt; site.  And with 132 Forks of the project on github, and anecdotal evidence of others running their own servers we could easily be serving over 10,000 users a day right now.  Over 730 'courses' have been created on &lt;cite&gt;interactivepython.org&lt;/cite&gt; many of them  are high school courses, and many of them are from smaller colleges. We have users from over 170 countries around the world.  The United states now accounts for less than half of our traffic.&lt;/p&gt;
+&lt;p&gt;At least one of the books has been translated (&lt;cite&gt;http://aliev.me/runestone/&lt;/cite&gt;) into Russian!  Seriously, I never would have thought this would happen.&lt;/p&gt;
+&lt;p&gt;The tools have also produced four new books this year that we are hosting.
+* One is in testing that I can't say anything about yet.
+* A second is an &lt;a href="http://interactivepython.org/runestone/static/JavaReview/index.html"&gt;AP Review book for Java&lt;/a&gt;, written by &lt;a href="http://www.cc.gatech.edu/people/barbara-ericson"&gt;Barbara Ericson&lt;/a&gt;
+* The third is &lt;a href="http://interactivepython.org/runestone/static/pip2/index.html"&gt;Programs Information and People&lt;/a&gt; by &lt;a href="http://presnick.people.si.umich.edu"&gt;Paul Resnick&lt;/a&gt;.
+* And finally My own project:  Fundamentals of Web Programming, worked very well for my seven week intro to web programming course.  I've been expanding it to work with my upper level web programming course and will release it for others to use soon.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;There are also a few books published by others and hosted elsewhere around the web.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The activecode blocks now support:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python -- of course&lt;/li&gt;
+&lt;li&gt;Javascript&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;Blockly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also took two steps toward providing more server side functionality, rather than relying on everything happening in the browser with Javascript.  Those new features are attached to the activecode blocks in the form of the &amp;quot;Code Coach&amp;quot; and &amp;quot;Run in CodeLens&amp;quot; buttons.  This was a big departure for me, because I've always had a goal that the books should &amp;quot;just work&amp;quot; even if you are on an airplane without WiFi.  But both of these features need to connect to a server in real time.  However since the lack of connectivity is an increasingly rare phenomenon these days I think this is going to be a good direction.&lt;/p&gt;
+&lt;p&gt;There were also major improvements to assignments and grading.  You can now have a custom page for writing and publishing your own assignments.  You can also create assignments with due dates for your course and students can check their progress for the entire course on the progress page.&lt;/p&gt;
+&lt;p&gt;This past summer, I had a student researcher working on data analysis of all of the clickstream data we have captured over the last few years.  This was really interesting, and the results will hopefully lead to some good papers.  But, we barely scratched the surface of the analysis.  We did manage to do a good job of cleaning up the data.  If you are interested in doing analysis, let me know, and I will be happy to share the anonymized data set.  One thing we did learn, and are in the process of writing up, is that the error messages and hints that we added make a significant difference for the number of runs and amount of time it takes for students to complete homework programming exercises!&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id="looking-ahead"&gt;
+&lt;h2&gt;Looking Ahead&lt;/h2&gt;
+&lt;p&gt;As with any successful project, one thing leads to another, and the list of things we &lt;strong&gt;could&lt;/strong&gt; do grows ever longer than the things that &lt;strong&gt;I have time to do do&lt;/strong&gt;.  So, what follows is my vision for where I would like to be at the end of 2015, I know I can't do this alone, but I'm hoping that by putting my vision out here I can convince some of you to join in the development.&lt;/p&gt;
+&lt;section id="language-support"&gt;
+&lt;h3&gt;Language Support&lt;/h3&gt;
+&lt;p&gt;I have been participating in a great discussion with Dirk Grunewald and Richard Lobb on our &lt;a href="https://groups.google.com/forum/#!forum/runestoneinteractive"&gt;google group&lt;/a&gt; about providing support for other languages.  Richard has an excellent project on github called &lt;a href="https://github.com/trampgeek/jobe"&gt;Jobe&lt;/a&gt; that provides exactly what I need on the backend to compile and run C, C++, Java, and even R programs.  With a bit of experimentation I've been able to get Jobe up and running, and the REST API seems simple enough that it would be possible to integrate into our activecode processing.  There are a number of challenges to make this a reality.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the CPU load that jobe will add.&lt;/li&gt;
+&lt;li&gt;Understand the memory load that jobe will add.  It seems likely that this will require an upgrade or another machine since I'm close to my webfaction limit already.&lt;/li&gt;
+&lt;li&gt;Figure out if we can use Jobe in a more stripped down/standalone mode.  Right now it requires Apache, and php, and a few other things.  Some of that is probably overkill for what we want to do.&lt;/li&gt;
+&lt;li&gt;Modify the activecode directive and the bookfuncs.js runtime functions to use jobe in the background.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;
+&lt;section id="code-coach"&gt;
+&lt;h3&gt;Code Coach&lt;/h3&gt;
+&lt;p&gt;This summer I introduced the Code Coach feature.  It has become quite popular for what it does.  Which is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Display the history of the development process.  Each time the student runs a program we capture the state of the source.  When the student presses the Code Coach button, he or she can browse the history and see the differences between each run.  I think this is a valuable tool for instructors to use when helping their students.&lt;/li&gt;
+&lt;li&gt;The second thing Code Coach does is display messages from &lt;cite&gt;pylint&lt;/cite&gt; Pylint catches lots of mistakes that the python runtime does not.  For example, useless statements, like a function without parenthesis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This bit of functionality was always intended to be a place holder for a much more intelligent automated tutoring system.  There are lots of people working on research related to understanding the paths that students following in solving a coding problem,  including &lt;a href="http://people.csail.mit.edu/elg/"&gt;Elena Glassman&lt;/a&gt;, at MIT, who I met at the &lt;a href="mailto:Learning&amp;#64;Scale"&gt;Learning&amp;#64;Scale&lt;/a&gt; conference last spring, and &lt;a href="http://faculty.ithaca.edu/tdragon/"&gt;Toby Dragon&lt;/a&gt;, at Ithaca College, who is a user of the book, and &lt;a href="http://stanford.edu/~cpiech/bio/index.html"&gt;Chris Piech&lt;/a&gt; at Stanford.&lt;/p&gt;
+&lt;p&gt;The work that Elena and Chris are doing may allow us to detect that a student is headed down a path toward an unsuccessful solution.  If we can do that then perhaps we can intervene with some well timed hints, to get the student headed back in the right direction.&lt;/p&gt;
+&lt;p&gt;This is going to require a lot of computing horsepower, but with a data set of of 8 million runs of introductory CS problems to learn from, I think I have some interesting data for people to work with.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id="integrated-codelens"&gt;
+&lt;h3&gt;Integrated CodeLens&lt;/h3&gt;
+&lt;p&gt;The CodeLens feature of the textbook is easily one of the most useful and educational elements in the Runestone arsenal.  Since the beginning I have been able to use this wonderful tool in offline mode to allow students to step through canned examples.  This summer I added a Run In CodeLens button that communicates with &lt;a href="http://www.pgbovine.net"&gt;Philip Guo's&lt;/a&gt; &lt;a href="http://pythontutor.com"&gt;Online Python Tutor&lt;/a&gt; which connects activecode examples and exercises to the live system.  This allows a student to step through almost any program she is working on.&lt;/p&gt;
+&lt;p&gt;However, this fall some huge advances were made on the &lt;a href="http://skulpt.org"&gt;Skulpt Project&lt;/a&gt; called Suspensions.  This new implementation of the runtime allows us to set breakpoints, and make the Skulpt implementation of Python truly interactive.  I believe that Suspensions will allow us to fully embed a Python Tutor like system in the textbook, thus distributing this processing to the browser as well.&lt;/p&gt;
+&lt;p&gt;However, I recently re-watched &lt;a href="http://worrydream.com"&gt;Bret Victor's&lt;/a&gt; incredible &lt;a href="http://vimeo.com/36579366"&gt;Inventing on Principle&lt;/a&gt; video and I am convinced that with the advances in Skulpt, and Python Tutor, that we could realize this vision for an interactive editor.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id="runestone-academy"&gt;
+&lt;h3&gt;Runestone Academy&lt;/h3&gt;
+&lt;p&gt;And last, but not least Runestone Academy.  With book subjects expanding well beyond the realm of Python, the use of interactivepython.org as the main hosting site, is becoming increasingly inaccurate.  A new name for the main hosting site is in order. So, with thanks to my colleague, David Ranum, for the suggestion, watch for &lt;cite&gt;runestone.academy&lt;/cite&gt; to launch sometime this year. However, even more important is that more and more people want the book to be integrated into a better system for managing grades, making assignments, notifying students of assignments, providing feedback, tracking progress, etc.  Although we have made some progress in these areas in the past year it has not been particularly cohesive.  There are systems out there that do some or all of this.  I am not interested in reinventing all of this stuff.   It would be a huge distraction from the central vision for the textbook authoring tools.  But, if we can leverage a tight integration with something like the edX platform, I think that would be a huge win.&lt;/p&gt;
+&lt;p&gt;So there you have it, It is a boatload of work.  My friend and colleague Paul Resnick made a comment to me last summer that has become a sort of guiding principle for my work.  That is &amp;quot;what thing can I work on that will add the greatest educational value for the largest number of students?&amp;quot;  I think all of these add a tremendous amount of value and I hope to see them all to fruition.&lt;/p&gt;
+&lt;p&gt;Now I'm off to the Mediterranean for Spring semester with my wife and 12 Luther students.  This spring promises to push me out of my comfort zone and expose me to many new cultures and ideas.  I'll be posting on Reputable Journal often to keep friends and family apprised of our travel and adventure.   Hopefully I'll also be able to do some inspired hacking while enjoying the warmer climes.&lt;/p&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+</content><category term="Runestone"></category><category term="Python"></category><category term="Runestone"></category></entry><entry><title>Runestone Fall 2014</title><link href="https://archive.reputablejournal.com/runestone-fall-report.html" rel="alternate"></link><published>2014-09-20T19:57:48+00:00</published><updated>2014-09-20T19:57:48+00:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2014-09-20:/runestone-fall-report.html</id><summary type="html">&lt;p&gt;School is underway again, and now that we are a few weeks in to the semester I wanted to take a minute to talk about growth.  Last year about this time things were still pretty chaotic, with the unexpected success of the books the servers were laboring intensely to keep …&lt;/p&gt;</summary><content type="html">&lt;p&gt;School is underway again, and now that we are a few weeks in to the semester I wanted to take a minute to talk about growth.  Last year about this time things were still pretty chaotic, with the unexpected success of the books the servers were laboring intensely to keep up with all of the new users.   This necessitated a weekend switch to a larger server.&lt;/p&gt;
+&lt;section id="growth"&gt;
+&lt;h2&gt;Growth&lt;/h2&gt;
+&lt;p&gt;This year, Google Analytics is showing that our daily traffic has doubled from last fall!  Here's a comparison to a year ago, adjusting for the days of the week to be the same.  Its amazing how consistent the weekly pattern is.&lt;/p&gt;
+&lt;img class="m-image" src="/images/fall2014growth.png" /&gt;
+&lt;/section&gt;
+&lt;section id="code-coach"&gt;
+&lt;h2&gt;Code Coach&lt;/h2&gt;
+&lt;p&gt;One of the new features in our 3.x release is the Code Coach.  You have probably noticed that button in some exercises, or some of the examples.  Code Coach is in its very early stages as a platform for providing students with intelligent automated feedback on their code.  I think this has &lt;strong&gt;huge&lt;/strong&gt; potential, but is going to require a lot of resources to bring to fruition.  Right now there are two things going on that I think do add value:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Every time the student presses the run button that version of the code is saved.  Code Coach lets a student move backward and forward through their history to view the differences between one version of the code and the next.  I can see this as a very valuable teaching tool for an instructor to use with the student.  I've looked at a bunch of these and its amazing how often a student gets off in the weeds over a very simple project and ends up throwing away a huge amount of work, or just making random changes.  I would really like to have the conversation where I can show the student, if you would have fixed this, you would not have had to delete all of this other stuff.&lt;/li&gt;
+&lt;li&gt;Everytime the student runs a program, I run Pylint on it in the background.  Pylint catches all sorts of &amp;quot;errors&amp;quot; that do not show up as Python runtime errors.  One big one is forgetting parentheses.  I've seen this so many times:  &lt;code&gt;myTurtle.forward&lt;/code&gt; this is not a runtime error because Python evaluates the statement to simply be a reference to a function.  But the student can't see it.  &amp;quot;Dr. Miller, I don't get any errors, but my turtle isn't doing anything, what am I doing wrong?&amp;quot;  Pylint flags this for the useless statement that it is.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I'm really looking forward to applying much more advanced analysis to the code in order to provide better coaching.&lt;/p&gt;
+&lt;/section&gt;
+</content><category term="Runestone"></category><category term="Python"></category></entry><entry><title>Version 3.0 of Runestone Interactive released</title><link href="https://archive.reputablejournal.com/runestone-interactive-3-0.html" rel="alternate"></link><published>2014-08-18T12:55:07+00:00</published><updated>2014-08-18T12:55:07+00:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2014-08-18:/runestone-interactive-3-0.html</id><summary type="html">&lt;p&gt;I'm pleased to announce that over the weekend, I updated &lt;a href="http://interactivepython.org"&gt;interactivepython.org&lt;/a&gt; to version 3.0.  This release completes another summer of hacking, and integrating contributions from colleagues around the world.&lt;/p&gt;
+&lt;p&gt;My plan in this post is to briefly summarize some of the highlights of the new release and then …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I'm pleased to announce that over the weekend, I updated &lt;a href="http://interactivepython.org"&gt;interactivepython.org&lt;/a&gt; to version 3.0.  This release completes another summer of hacking, and integrating contributions from colleagues around the world.&lt;/p&gt;
+&lt;p&gt;My plan in this post is to briefly summarize some of the highlights of the new release and then follow up over the course of this week with posts and screencasts about specific features.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Progress tracking, and cohorts.&lt;/strong&gt;  This is one of the major visual changes to the books, thanks to some great work by &lt;a href="http://www.ivipul.com"&gt;Vipul Thackur&lt;/a&gt;.  The &amp;quot;chapters&amp;quot; have been broken up into subchapters and you can now track your progress through each chapter/sub-chapter on the table of contents.  In addition, there is now the facility to create a study group and to negotiate reading deadlines and have discussions with members of your own cohort.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;New and improved grading and assignments interface.&lt;/strong&gt;  Thanks to &lt;a href="http://presnick.people.si.umich.edu/"&gt;Paul Resnick&lt;/a&gt; and his students at the University of Michigan you can now group activities into assignments.  You can also provide comments to students on the programming problems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Custom assignment page.&lt;/strong&gt;  As an instructor you can now easily edit an assignments page that is part of your custom course.  This page will allow you to make use of all of the features of the Runestone tools and restructured text to add your own assignments.  I think this feature has great potential to grow into additional custom content in the future so stay tuned.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Run in Codelens.&lt;/strong&gt;  Sometime earlier this summer &lt;a href="http://www.pgbovine.net/"&gt;Philip Guo&lt;/a&gt; added an iframe interface to the awesome Online Python Tutor.  This allowed me to add a button to most of the activecode examples that allow you to also run the example in the &lt;a href="http://pythontutor.com"&gt;Online Python Tutor&lt;/a&gt;.  You can edit the examples and click the button to run another version.  This feature requires that you have internet access while reading, something I have resisted in the past, but it it seems increasingly difficult to be offline now anyway, so I'm not going to resist anymore.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code Coach.&lt;/strong&gt;   Last spring at SIGCSE, Paul Resnick, David Ranum and I spent an afternoon hacking.  The idea was to provide an interface that would allow students to look at the history of any particular programming assignment, and see the differences from one try to the next.  Our hypothesis is that this would be a good teaching tool for an instructor to use with a student to review how they developed a solution and arrived at their current state.  I expanded on the concept a bit this summer by making use of pylint, which points out a number of potential problems that plague beginning programmers.  For example, pointing out &amp;quot;useless statements&amp;quot; when a student forgets their parenthesis on a function call.  My hope is that Code Coach will grow into a fully automated code tutor in the future.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blockly directive.&lt;/strong&gt;   I think that blocks based programming languages like &lt;a href="https://blockly-demo.appspot.com/static/apps/index.html"&gt;Blockly&lt;/a&gt;, and Scratch have great potential to help students develop a mental model or a picture in their mind of how various programming constructs work. So I created this new directive that will let you write blocks language examples and exercises.  My hope was to write a new introduction to How to Think Like a Computer Scientist using Blockly, but there are only so many hours in the summer.  Hopefully I'll make progress on this during the coming months.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Activecode support for Javascript and HTML.&lt;/strong&gt;  In preparation for a new course I'm teaching this fall, I wanted to be able to have students edit HTML and Javascript examples like we can do with Python.  Now you can.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;New Book:&lt;/strong&gt;  &lt;a href="http://interactivepython.org/runestone/static/pip/index.html"&gt;Programs, Information, People&lt;/a&gt;.  This book is a new mashup of the How to Think book that Paul Resnick uses in his course in the School of Information by the same title.  I think this is a great alternative to the How to Think book in that it avoids some of the &amp;quot;early math&amp;quot; problems and focuses on information processing using data from the internet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AP Java Review:&lt;/strong&gt;  &lt;a href="http://interactivepython.org/runestone/static/JavaReview/index.html"&gt;This book&lt;/a&gt; came on line last spring, but its worth mentioning in this summary.  &lt;a href="http://www.cc.gatech.edu/people/barbara-ericson"&gt;Barbara Ericson&lt;/a&gt; at Georgia Tech has put this together and although we can't run any Java examples in the browser the rest of the interactive resources are great for getting ready for the AP exam.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Well, thats the overview.  I look forward to bringing you the details over the next week.  In the meantime, you can see some of the features on the &lt;a href="http://interactivepython.org/runestone/static/overview/overview.html"&gt;Overview site&lt;/a&gt;  I'm sure we will see a few glitches as these new features move out of beta testing and into general use. Please report them on our &lt;a href="http://github.com/bnmnetp/runestone"&gt;github page&lt;/a&gt; or send me an email.&lt;/p&gt;
+</content><category term="Runestone"></category><category term="Python"></category><category term="Education"></category></entry><entry><title>On the Denial of Service Attack</title><link href="https://archive.reputablejournal.com/on-the-denial-of-service.html" rel="alternate"></link><published>2014-07-21T21:55:17+00:00</published><updated>2014-07-21T21:55:17+00:00</updated><author><name>Brad Miller</name></author><id>tag:archive.reputablejournal.com,2014-07-21:/on-the-denial-of-service.html</id><summary type="html">&lt;p&gt;Well its been an interesting week. My daughter is married, and I've been caught in the crossfire of a Distributed Denial of Service (DDoS) attack on Webfaction, my hosting provider. I'm quite sure the two are unrelated.&lt;/p&gt;
+&lt;p&gt;For those of you who have been frustrated in your attempts to access …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Well its been an interesting week. My daughter is married, and I've been caught in the crossfire of a Distributed Denial of Service (DDoS) attack on Webfaction, my hosting provider. I'm quite sure the two are unrelated.&lt;/p&gt;
+&lt;p&gt;For those of you who have been frustrated in your attempts to access any of the books on interactivepython.org, I'm sorry. We were not the target of the attack, but we were in the same subdomain and got blasted. I can't believe that it took over four days to clear up the mess. But thats about what happened. This is a new one for me. I've never considered that an open source textbook project would have to worry about something like this. At one point Webfaction said they were getting 4Gbps (yes, 4 gigabits per second) of malicious traffic affecting about a dozen machines.&lt;/p&gt;
+&lt;p&gt;I've been so frustrated with Webfaction's response that I've been thinking about moving to a different hosting service. But I'm left with the following questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Could Webfaction done better? The only thing I'm qualified to say here is that they could have done way better in communicating with those of us affected. Here was the initial response I got from tech support:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&amp;gt; There is no ETA as to when this issue will be fully resolved as only the attacker(s) can determine that. At times the target against a server can be large enough that our hardware mitigation system can not handle the volume. Please let us know if you need anything else.&lt;/blockquote&gt;
+&lt;p&gt;Ok, maybe dealing with a DDoS is a really hard problem, but as a frustrated owner of the site here is what I heard. &amp;quot;Sorry, nothing we can do. You will just have to wait until the bad guys get tired and go away.&amp;quot; In addition, it was maddeningly long between their status updates. You can see their updates here As a site owner, all I want to do is get my site back up and running. In order to make good decisions about what to do I need timely information, not vague intermittent messages.&lt;/p&gt;
+&lt;ol start="2"&gt;
+&lt;li&gt;What are standard practices in building web applications to protect against an attack like this?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;3.  How do you know whether one hosting provider is going to be any better than another in dealing with an attack like this? Is paying for AWS or Google compute engine the only way to know you are getting a provider with the resources to take on a big attack?
+If you have answers to these questions, please leave a comment.&lt;/p&gt;
+</content><category term="Runestone"></category></entry></feed>
